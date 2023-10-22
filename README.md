@@ -25,9 +25,9 @@ Using any of the categories:
 When you insert the event, make sure it is inserted chronically with respect of start_date of other events.
 
 TODOS:
-* [] Create a script to automatically sort events.yml by start date
-* [] Automatically trigger Weekly Robotics rebuild after a PR merge
-* [] Create a script and a GitHub action to automatically remove past events
-* [] Create a jinja2 template to populate the README.md with the events
+* [ ] Create a script to automatically sort events.yml by start date
+* [ ] Automatically trigger Weekly Robotics rebuild after a PR merge
+* [ ] Create a script and a GitHub action to automatically remove past events
+* [ ] Create a jinja2 template to populate the README.md with the events
 
 Any help on the above would be highly appreciated!
