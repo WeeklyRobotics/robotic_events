@@ -8,6 +8,46 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
+- title: ROSCon Germany 2023
+  link: https://roscon2023.de/
+  start_date: 2023-11-23
+  end_date: 2023-11-24
+  city: Karlsruhe
+  country: Germany
+  category: Conference
+
+- title: ROScon India 2023
+  link: http://rosconindia.in/
+  start_date: 2023-12-14
+  end_date: 2023-12-15
+  city: Bangalore
+  country: India
+  category: Conference
+
+- title: Free and Open Source Developer European Meeting (FOSdem) 2024
+  link: https://fosdem.org/2024/
+  start_date: 2024-02-03
+  end_date: 2024-02-04
+  city: Brussels
+  country: Belgium
+  category: Conference
+
+- title: European Robotics Forum 2024
+  link: https://erf2024.eu/
+  start_date: 2024-03-13
+  end_date: 2024-03-15
+  city: Remini
+  country: Italy
+  category: Conference
+
+- title: R-24 Robots, Automation and Drones 2024
+  link: https://roboticsevent.eu/en/
+  start_date: 2024-03-13
+  end_date: 2024-03-15
+  city: Odense
+  country: Denmark
+  category: Expo
+
 - title: Robotics Summit & Expo
   link: https://www.roboticssummit.com/
   start_date: 2024-05-01
@@ -22,6 +62,38 @@
   end_date: 2024-05-17
   city: Yokohama
   country: Japan
+  category: Conference
+
+  - title: International Conference on Unmanned Aircraft Systems (ICUAS) 2024
+  link: https://uasconferences.com/2024_icuas/
+  start_date: 2024-06-04
+  end_date: 2024-06-07
+  city: Chinia, Crete
+  country: Greece
+  category: Conference
+
+  - title: RoboCup 2024
+  link: https://2024.robocup.org/
+  start_date: 2024-07-17
+  end_date: 2024-07-22
+  city: Eindhoven
+  country: Netherlands
+  category: Competition
+
+- title: IROS 2024
+  link: https://iros2024-abudhabi.org/
+  start_date: 2024-10-14
+  end_date: 2024-10-18
+  city: Abu Dhabi
+  country: Emirate of Abu Dhabi
+  category: Conference
+
+- title: ROSCon 2024
+  link: https://roscon.ros.org/2024/
+  start_date: 2024-10-21
+  end_date: 2024-10-23
+  city: Odense
+  country: Denmark
   category: Conference
 
 - title: Cybathlon 2024
