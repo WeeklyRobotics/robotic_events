@@ -64,7 +64,7 @@
   country: Japan
   category: Conference
 
-  - title: International Conference on Unmanned Aircraft Systems (ICUAS) 2024
+- title: International Conference on Unmanned Aircraft Systems (ICUAS) 2024
   link: https://uasconferences.com/2024_icuas/
   start_date: 2024-06-04
   end_date: 2024-06-07
@@ -72,7 +72,7 @@
   country: Greece
   category: Conference
 
-  - title: RoboCup 2024
+- title: RoboCup 2024
   link: https://2024.robocup.org/
   start_date: 2024-07-17
   end_date: 2024-07-22
