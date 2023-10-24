@@ -24,7 +24,7 @@
   country: India
   category: Conference
 
-- title: Free and Open Source Developer European Meeting (FOSdem) 2024
+- title: FOSdem 2024
   link: https://fosdem.org/2024/
   start_date: 2024-02-03
   end_date: 2024-02-04
@@ -64,12 +64,20 @@
   country: Japan
   category: Conference
 
-- title: International Conference on Unmanned Aircraft Systems (ICUAS) 2024
+- title: ICUAS 2024
   link: https://uasconferences.com/2024_icuas/
   start_date: 2024-06-04
   end_date: 2024-06-07
   city: Chania, Crete
   country: Greece
+  category: Conference
+
+- title: Robotics: Science and Systems 2024
+  link: https://roboticsconference.org/
+  start_date: 2024-07-10
+  end_date: 2024-07-14
+  city: Daegu
+  country: Republic of Korea
   category: Conference
 
 - title: RoboCup 2024
