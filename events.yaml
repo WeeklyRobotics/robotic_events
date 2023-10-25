@@ -7,6 +7,13 @@
 #   country: event country
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
+- title: 2023 Conference on Robot Learning
+  link: https://www.corl2023.org/
+  start_date: 2023-11-06
+  end_date: 2023-11-09
+  city: Atlanta
+  country: United States of America
+  category: Conference
 
 - title: ROSCon Germany 2023
   link: https://roscon2023.de/
