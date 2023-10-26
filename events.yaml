@@ -7,6 +7,14 @@
 #   country: event country
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
+- title: Swiss Robotics Day 2023
+  link: https://swissroboticsday.ch/
+  start_date: 2023-11-03
+  end_date: 2023-11-03
+  city: Zurich
+  country: Switzerland
+  category: Conference
+
 - title: 2023 Conference on Robot Learning
   link: https://www.corl2023.org/
   start_date: 2023-11-06
