@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: msadowski/weekly_robotics
+          repository: msadowski/weeklyrobotics
           token: ${{ secrets.GITHUB_TOKEN }}
           submodules: true
 
