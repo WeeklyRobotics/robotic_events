@@ -7,6 +7,15 @@
 #   country: event country
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
+
+- title: ROS Meetup – Netherlands 
+  link: https://robohouse.nl/activities/events/ros-meetup-netherlands-robohouse/
+  start_date: 2023-11-02
+  end_date: 2023-11-02
+  city: Delft
+  country: The Netherlands
+  category: Meetup
+
 - title: Swiss Robotics Day 2023
   link: https://swissroboticsday.ch/
   start_date: 2023-11-03
