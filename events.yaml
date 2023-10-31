@@ -141,6 +141,14 @@
   city: Eindhoven
   country: Netherlands
   category: Competition
+  
+- title: BioRob 2024
+  link: https://www.biorob2024.org/home/
+  start_date: 2024-09-01
+  end_date: 2024-09-04
+  city: Heidelberg
+  country: Germany
+  category: Conference  
 
 - title: IROS 2024
   link: https://iros2024-abudhabi.org/
