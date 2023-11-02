@@ -30,6 +30,14 @@
   country: United States of America
   category: Conference
 
+- title: DTR - Drone competition
+  link: https://sites.google.com/lehigh.edu/dtr2023b/home
+  start_date: 2023-11-13
+  end_date: 2023-11-17
+  city: Bethlehem
+  country: United States of America
+  category: Competition
+
 - title: European Robotics Week 2023
   link: https://eu-robotics.net/eurobotics/activities/european-robotics-week/
   start_date: 2023-11-18
@@ -90,7 +98,7 @@
   start_date: 2024-04-14
   end_date: 2024-04-17
   city: San Diego
-  country: US
+  country: United States of America
   category: Conference
 
 - title: Open Hardware Summit 2024
@@ -106,7 +114,7 @@
   start_date: 2024-05-01
   end_date: 2024-05-02
   city: Boston
-  country: US
+  country: United states of America
   category: Expo
 
 - title: HRI 2024
@@ -114,7 +122,7 @@
   start_date: 2024-05-11
   end_date: 2023-05-14
   city: Boulder, Colorado
-  country: US
+  country: United states of America
   category: Conference
 
 - title: ICRA 2024
