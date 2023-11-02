@@ -46,6 +46,13 @@
   country: Germany
   category: Conference
 
+- title: ROS Meetup Barcelona (in Spanish)
+  link: https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a
+  start_date: 2023-11-24
+  city: Barcelona
+  country: Spain
+  category: Meetup
+  
 - title: ROScon India 2023
   link: http://rosconindia.in/
   start_date: 2023-12-14
