@@ -61,6 +61,14 @@
   country: Spain
   category: Meetup
 
+- title: ROS-Industrial Consortium Asia Pacific Annual Summit 2023
+  link: https://reg.eventnook.com/event/rosiapworkshop2023
+  start_date: 2023-11-29
+  end_date: 2023-11-30
+  city: Singapore
+  country: Singapore
+  category: Workshop
+
 - title: ROScon India 2023
   link: http://rosconindia.in/
   start_date: 2023-12-14
