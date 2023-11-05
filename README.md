@@ -24,7 +24,7 @@ Using any of the categories:
 * Competition
 * Meetup
 
-When you insert the event, make sure it is inserted chronically with respect of start_date of other events. Please note that at this time we **don't accept any events related to weaponry or weaponization**.
+When you insert the event, make sure it is inserted chronologically with respect of start_date of other events. Please note that at this time we **don't accept any events related to weaponry or weaponization**.
 
 # Events
 
