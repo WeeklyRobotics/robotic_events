@@ -8,20 +8,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROS Meetup - Netherlands
-  link: https://robohouse.nl/activities/events/ros-meetup-netherlands-robohouse/
-  start_date: 2023-11-02
-  city: Delft
-  country: The Netherlands
-  category: Meetup
-
-- title: Swiss Robotics Day 2023
-  link: https://swissroboticsday.ch/
-  start_date: 2023-11-03
-  city: Zurich
-  country: Switzerland
-  category: Conference
-
 - title: 2023 Conference on Robot Learning
   link: https://www.corl2023.org/
   start_date: 2023-11-06
@@ -133,14 +119,6 @@
   country: France
   category: Competition
 
-- title: HRI 2024
-  link: https://humanrobotinteraction.org/2024/
-  start_date: 2024-05-11
-  end_date: 2023-05-14
-  city: Boulder, Colorado
-  country: United states of America
-  category: Conference
-
 - title: ICRA 2024
   link: https://2024.ieee-icra.org/
   start_date: 2024-05-13
@@ -165,7 +143,7 @@
   country: Germany
   category: Competition
 
-- title: "Robotics: Science and Systems 2024"
+- title: 'Robotics: Science and Systems 2024'
   link: https://roboticsconference.org/
   start_date: 2024-07-15
   end_date: 2024-07-19
