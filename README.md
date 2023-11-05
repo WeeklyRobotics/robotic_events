@@ -1,7 +1,7 @@
 # Robotic Events
 A repository containing upcoming events in robotics maintained by [](https://www.linkedin.com/in/knmcguire/) and [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/).
 
-The events in this repository are rendered on [Weekly Robotics website](https://www.weeklyrobotics.com/events)
+The events in this repository are rendered on the [Weekly Robotics website](https://www.weeklyrobotics.com/events) and this README file.
 
 ## Contributing
 
@@ -24,7 +24,7 @@ Using any of the categories:
 * Competition
 * Meetup
 
-When you insert the event, make sure it is inserted chronically with respect of start_date of other events. Please note that at this time we don't accept any events related to weaponry or weaponization.
+When you insert the event, make sure it is inserted chronically with respect of start_date of other events. Please note that at this time we **don't accept any events related to weaponry or weaponization**.
 
 # Events
 
