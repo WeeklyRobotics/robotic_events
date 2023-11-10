@@ -8,14 +8,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: 2023 Conference on Robot Learning
-  link: https://www.corl2023.org/
-  start_date: 2023-11-06
-  end_date: 2023-11-09
-  city: Atlanta
-  country: United States of America
-  category: Conference
-
 - title: DTR - Drone competition
   link: https://sites.google.com/lehigh.edu/dtr2023b/home
   start_date: 2023-11-13

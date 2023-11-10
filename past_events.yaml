@@ -12,3 +12,11 @@
   country: Switzerland
   category: Conference
 
+- title: 2023 Conference on Robot Learning
+  link: https://www.corl2023.org/
+  start_date: 2023-11-06
+  end_date: 2023-11-09
+  city: Atlanta
+  country: United States of America
+  category: Conference
+
