@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [2023 Conference on Robot Learning](https://www.corl2023.org/): Nov 06-Nov 09, 2023. Atlanta, United States of America
 * [ROSCon Germany 2023](https://roscon2023.de/): Nov 23-Nov 24, 2023. Karlsruhe, Germany
 * [ROScon India 2023](http://rosconindia.in/): Dec 14-Dec 15, 2023. Bangalore, India
 * [FOSdem 2024](https://fosdem.org/2024/): Feb 03-Feb 04, 2024. Brussels, Belgium
@@ -74,3 +73,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [ROS Meetup Barcelona (in Spanish)](https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a): Nov 24, 2023. Barcelona, Spain
+* [Singapore ROS meetup - DevOps Edition](https://www.meetup.com/singapore-ros-meetup/events/297234587/): Nov 26, 2023. Singapore, Singapore
