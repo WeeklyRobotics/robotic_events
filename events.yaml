@@ -8,14 +8,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: DTR - Drone competition
-  link: https://sites.google.com/lehigh.edu/dtr2023b/home
-  start_date: 2023-11-13
-  end_date: 2023-11-17
-  city: Bethlehem
-  country: United States of America
-  category: Competition
-
 - title: European Robotics Week 2023
   link: https://eu-robotics.net/eurobotics/activities/european-robotics-week/
   start_date: 2023-11-18
