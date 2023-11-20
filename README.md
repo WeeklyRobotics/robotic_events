@@ -43,6 +43,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ICUAS 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
+* [ANTS 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
 * [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
 * [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
 * [ROSCon 2024](https://roscon.ros.org/2024/): Oct 21-Oct 23, 2024. Odense, Denmark
@@ -62,7 +63,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [DTR - Drone competition](https://sites.google.com/lehigh.edu/dtr2023b/home): Nov 13-Nov 17, 2023. Bethlehem, United States of America
 * [Eurobot Open 2024](https://www.eurobot.org): May 08-May 11, 2024. La Roche-sur-Yon, France
 * [AIRA Challenge 2024](https://www.aira-challenge.com): Jun 10-Jun 14, 2024. Frankfurt am Main, Germany
 * [RoboCup 2024](https://2024.robocup.org/): Jul 17-Jul 22, 2024. Eindhoven, Netherlands
