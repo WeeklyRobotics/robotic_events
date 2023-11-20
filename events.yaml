@@ -110,7 +110,7 @@
   country: France
   category: Competition
 
-- title: HRI 2024
+- title: HRI (Human robot interaction) 2024
   link: https://humanrobotinteraction.org/2024/
   start_date: 2024-05-11
   end_date: 2024-05-14
@@ -126,7 +126,15 @@
   country: Japan
   category: Conference
 
-- title: ICUAS 2024
+- title: ISMR (Medical Robotics) 2024 
+  link: https://ismr.gatech.edu/
+  start_date: 2024-06-03
+  end_date: 2024-06-05
+  city: Atlanta, Georgia
+  country: United States
+  category: Conference
+
+- title: ICUAS (UAVs) 2024 
   link: https://uasconferences.com/2024_icuas/
   start_date: 2024-06-04
   end_date: 2024-06-07
@@ -181,7 +189,7 @@
   country: United States of America
   category: Competition
 
-- title: ANTS 2024
+- title: ANTS (Swarm robotics) 2024
   link: https://www.uni-konstanz.de/ants-2024/
   start_date: 2024-10-09
   end_date: 2024-10-11
