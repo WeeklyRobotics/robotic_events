@@ -204,3 +204,11 @@
   city: Kloten
   country: Switzerland
   category: Competition
+
+- title: ANTS 2024
+  link: https://www.uni-konstanz.de/ants-2024/
+  start_date: 2024-10-9
+  end_date: 2024-10-11
+  city: Konstanz
+  country: Germany
+  category: Conference
