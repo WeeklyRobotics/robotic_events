@@ -38,12 +38,13 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
 * [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
 * [Open Hardware Summit 2024](https://2024.oshwa.org/): Apr 26-Apr 27, 2024. Montreal, Canada
-* [HRI 2024](https://humanrobotinteraction.org/2024/): May 11-May 14, 2024. Boulder, Colorado, United states of America
+* [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): May 11-May 14, 2024. Boulder, Colorado, United states of America
 * [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
-* [ICUAS 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
+* [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
+* [ICUAS (UAVs) 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
-* [ANTS 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
+* [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
 * [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
 * [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
 * [ROSCon 2024](https://roscon.ros.org/2024/): Oct 21-Oct 23, 2024. Odense, Denmark
