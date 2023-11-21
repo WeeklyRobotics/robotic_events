@@ -76,3 +76,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 * [ROS Meetup Barcelona (in Spanish)](https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a): Nov 24, 2023. Barcelona, Spain
 * [Singapore ROS meetup - DevOps Edition](https://www.meetup.com/singapore-ros-meetup/events/297234587/): Nov 26, 2023. Singapore, Singapore
+* [Cracow Robotics & AI Meetup](https://www.meetup.com/cracow-robotics-ai-club/events/297237461/): Dec 18, 2023. Krakow, Poland
