@@ -28,6 +28,14 @@
   country: United States of America
   category: Competition
 
+- title: European Robotics Week 2023
+  link: https://eu-robotics.net/eurobotics/activities/european-robotics-week/
+  start_date: 2023-11-18
+  end_date: 2023-11-26
+  city: Hannover
+  country: Germany
+  category: Expo
+
 - title: ROSCon Germany 2023
   link: https://roscon2023.de/
   start_date: 2023-11-23
@@ -41,5 +49,12 @@
   start_date: 2023-11-24
   city: Barcelona
   country: Spain
+  category: Meetup
+
+- title: Singapore ROS meetup - DevOps Edition
+  link: https://www.meetup.com/singapore-ros-meetup/events/297234587/
+  start_date: 2023-11-26
+  city: Singapore
+  country: Singapore
   category: Meetup
 

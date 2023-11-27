@@ -8,21 +8,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: European Robotics Week 2023
-  link: https://eu-robotics.net/eurobotics/activities/european-robotics-week/
-  start_date: 2023-11-18
-  end_date: 2023-11-26
-  city: Hannover
-  country: Germany
-  category: Expo
-
-- title: Singapore ROS meetup - DevOps Edition
-  link: https://www.meetup.com/singapore-ros-meetup/events/297234587/
-  start_date: 2023-11-26
-  city: Singapore
-  country: Singapore
-  category: Meetup
-
 - title: ROS-Industrial Consortium Asia Pacific Annual Summit 2023
   link: https://reg.eventnook.com/event/rosiapworkshop2023
   start_date: 2023-11-29
