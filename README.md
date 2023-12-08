@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ROSCon Germany 2023](https://roscon2023.de/): Nov 23-Nov 24, 2023. Karlsruhe, Germany
 * [ROScon India 2023](http://rosconindia.in/): Dec 14-Dec 15, 2023. Bangalore, India
 * [FOSdem 2024](https://fosdem.org/2024/): Feb 03-Feb 04, 2024. Brussels, Belgium
 * [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
@@ -42,6 +41,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
 * [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
 * [ICUAS (UAVs) 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
+* [Energy Drone & Robotics Coalition 2024](https://www.edrcoalition.com/energy-drone-robotics-summit-2024): Jun 10-Jun 12, 2024. Houston, United States
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
 * [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
@@ -52,14 +52,12 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [European Robotics Week 2023](https://eu-robotics.net/eurobotics/activities/european-robotics-week/): Nov 18-Nov 26, 2023. Hannover, Germany
 * [R-24 Robots, Automation and Drones 2024](https://roboticsevent.eu/en/): Mar 13-Mar 15, 2024. Odense, Denmark
 * [Robotics Summit & Expo](https://www.roboticssummit.com/): May 01-May 02, 2024. Boston, United states of America
 
 ## Workshop
 
 
-* [ROS-Industrial Consortium Asia Pacific Annual Summit 2023](https://reg.eventnook.com/event/rosiapworkshop2023): Nov 29-Nov 30, 2023. Singapore, Singapore
 
 ## Competition
 
@@ -74,6 +72,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [ROS Meetup Barcelona (in Spanish)](https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a): Nov 24, 2023. Barcelona, Spain
-* [Singapore ROS meetup - DevOps Edition](https://www.meetup.com/singapore-ros-meetup/events/297234587/): Nov 26, 2023. Singapore, Singapore
 * [Cracow Robotics & AI Meetup](https://www.meetup.com/cracow-robotics-ai-club/events/297237461/): Dec 18, 2023. Krakow, Poland
