@@ -66,3 +66,11 @@
   country: Singapore
   category: Workshop
 
+- title: ROScon India 2023
+  link: http://rosconindia.in/
+  start_date: 2023-12-14
+  end_date: 2023-12-15
+  city: Bangalore
+  country: India
+  category: Conference
+
