@@ -8,13 +8,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Cracow Robotics & AI Meetup
-  link: https://www.meetup.com/cracow-robotics-ai-club/events/297237461/
-  start_date: 2023-12-18
-  city: Krakow
-  country: Poland
-  category: Meetup
-
 - title: FOSdem 2024
   link: https://fosdem.org/2024/
   start_date: 2024-02-03
