@@ -8,12 +8,48 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
+- title: ROS Meetup Eindhoven 2024
+  link: https://forms.office.com/e/gXV4rfNQnz
+  start_date: 2024-01-25
+  city: Eindhoven
+  country: Netherlands
+  category: Meetup
+
+- title: ROS Meetup Karlsruhe 2024
+  link: https://www.fzi.de/veranstaltungen/ros-meetup-karlsruhe/
+  start_date: 2024-01-23
+  city: Karlsruhe
+  country: Germany
+  category: Meetup
+
+- title: ROS Meetup Lagos 2024
+  link: https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
+  start_date: 2024-02-03
+  city: Lagos
+  country: Nigeria
+  category: Meetup
+
 - title: FOSdem 2024
   link: https://fosdem.org/2024/
   start_date: 2024-02-03
   end_date: 2024-02-04
   city: Brussels
   country: Belgium
+  category: Conference
+
+- title: ROS Meetup Munich 2024
+  link: https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
+  start_date: 2024-02-07
+  city: Munich
+  country: Germany
+  category: Meetup
+
+- title: ICARA 2024
+  link: http://www.icara.us/index.html
+  start_date: 2024-02-22
+  end_date: 2024-02-24
+  city: Athens
+  country: Greece
   category: Conference
 
 - title: European Robotics Forum 2024
@@ -72,6 +108,14 @@
   country: United states of America
   category: Conference
 
+- title: ICCRE 2024
+  link: http://www.iccre.org/
+  start_date: 2024-05-10
+  end_date: 2024-05-12
+  city: Osaka
+  country: Japan
+  category: Conference
+
 - title: ICRA 2024
   link: https://2024.ieee-icra.org/
   start_date: 2024-05-13
@@ -110,6 +154,14 @@
   end_date: 2024-06-12
   city: Houston
   country: United States
+  category: Conference
+
+- title: ROSCON France 2024
+  link: https://roscon.fr/
+  start_date: 2024-06-19
+  end_date: 2024-06-20
+  city: Nantes
+  country: France
   category: Conference
 
 - title: 'Robotics: Science and Systems 2024'
