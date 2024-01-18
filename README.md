@@ -37,8 +37,8 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
 * [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
 * [Open Hardware Summit 2024](https://2024.oshwa.org/): Apr 26-Apr 27, 2024. Montreal, Canada
-* [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): May 11-May 14, 2024. Boulder, Colorado, United states of America
 * [ICCRE 2024](http://www.iccre.org/): May 10-May 12, 2024. Osaka, Japan
+* [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): May 11-May 14, 2024. Boulder, Colorado, United states of America
 * [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
 * [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
 * [ICUAS (UAVs) 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
@@ -55,7 +55,11 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [R-24 Robots, Automation and Drones 2024](https://roboticsevent.eu/en/): Mar 13-Mar 15, 2024. Odense, Denmark
+* [Xponential](https://www.xponential.org/xponential2024/public/enter.aspx): Apr 22-Apr 25, 2024. San Diego, United States of America
 * [Robotics Summit & Expo](https://www.roboticssummit.com/): May 01-May 02, 2024. Boston, United states of America
+* [Automate](https://www.automateshow.com/): May 06-May 09, 2024. Chicago, United states of America
+* [ProMat](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, United States of America
+* [Automatica](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
 
 ## Workshop
 
@@ -74,7 +78,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [ROS Meetup Eindhoven 2024](https://forms.office.com/e/gXV4rfNQnz): Jan 25, 2024. Eindhoven, Netherlands
 * [ROS Meetup Karlsruhe 2024](https://www.fzi.de/veranstaltungen/ros-meetup-karlsruhe/): Jan 23, 2024. Karlsruhe, Germany
+* [ROS Meetup Eindhoven 2024](https://forms.office.com/e/gXV4rfNQnz): Jan 25, 2024. Eindhoven, Netherlands
 * [ROS Meetup Lagos 2024](https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform): Feb 03, 2024. Lagos, Nigeria
 * [ROS Meetup Munich 2024](https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/): Feb 07, 2024. Munich, Germany
