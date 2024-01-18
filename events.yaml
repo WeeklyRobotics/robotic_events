@@ -23,7 +23,7 @@
   category: Meetup
 
 - title: ROS Meetup Lagos 2024
-  link: 
+  link:
     https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
   start_date: 2024-02-03
   city: Lagos
@@ -39,7 +39,7 @@
   category: Conference
 
 - title: ROS Meetup Munich 2024
-  link: 
+  link:
     https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
   start_date: 2024-02-07
   city: Munich
@@ -78,6 +78,14 @@
   country: United States of America
   category: Conference
 
+- title: Xponential
+  link: https://www.xponential.org/xponential2024/public/enter.aspx
+  start_date: 2024-04-22
+  end_date: 2025-04-25
+  city: San Diego
+  country: United States of America
+  category: Expo
+
 - title: Open Hardware Summit 2024
   link: https://2024.oshwa.org/
   start_date: 2024-04-26
@@ -91,6 +99,14 @@
   start_date: 2024-05-01
   end_date: 2024-05-02
   city: Boston
+  country: United states of America
+  category: Expo
+
+- title: Automate
+  link: https://www.automateshow.com/
+  start_date: 2024-05-06
+  end_date: 2024-05-09
+  city: Chicago
   country: United states of America
   category: Expo
 
@@ -244,3 +260,19 @@
   city: Kloten
   country: Switzerland
   category: Competition
+
+- title: ProMat
+  link: https://www.promatshow.com/
+  start_date: 2025-03-17
+  end_date: 2025-03-20
+  city: Chicago
+  country: United States of America
+  category: Expo
+
+- title: Automatica
+  link: https://automatica-munich.com/en/
+  start_date: 2025-06-24
+  end_date: 2025-06-27
+  city: Munich
+  country: Germany
+  category: Expo
