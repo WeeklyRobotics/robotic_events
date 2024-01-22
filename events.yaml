@@ -3,6 +3,7 @@
 #   link: your event link
 #   start_date: YYYY-MM-DD
 #   end_date: YYYY-MM-DD # Optional
+#   deadline: YYYY-MM-DD # Optional
 #   city: event city
 #   country: event country
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
@@ -23,7 +24,7 @@
   category: Meetup
 
 - title: ROS Meetup Lagos 2024
-  link: 
+  link:
     https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
   start_date: 2024-02-03
   city: Lagos
@@ -39,7 +40,7 @@
   category: Conference
 
 - title: ROS Meetup Munich 2024
-  link: 
+  link:
     https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
   start_date: 2024-02-07
   city: Munich
@@ -162,6 +163,7 @@
   link: https://www.aira-challenge.com
   start_date: 2024-06-10
   end_date: 2024-06-14
+  deadline: 2024-01-07
   city: Frankfurt am Main
   country: Germany
   category: Competition
@@ -202,6 +204,7 @@
   link: https://www.ursc.gov.in/IRoC-U2024/events.jsp#main
   start_date: 2024-08-05
   end_date: 2024-08-06
+  deadline: 2024-01-15
   city: Bengaluru
   country: India
   category: Competition
@@ -217,6 +220,7 @@
 - title: Farm Robotics Challenge
   link: https://farmroboticschallenge.ai/
   start_date: 2024-09-06
+  deadline: 2023-12-18
   city: tbd
   country: United States of America
   category: Competition
@@ -257,6 +261,7 @@
   link: https://cybathlon.ethz.ch/en/events/edition/cybathlon-2024
   start_date: 2024-10-25
   end_date: 2024-10-27
+  deadline: 2024-03-31
   city: Kloten
   country: Switzerland
   category: Competition

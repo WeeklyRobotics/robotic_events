@@ -32,5 +32,5 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## {{ category }}
 
 {% for event in events %}
-* [{{ event.title }}]({{ event.link }}){% if event.end_date %}: {{ event.start_date.strftime('%b %d') }}-{{ event.end_date.strftime('%b %d, %Y') }}.{% else %}: {{ event.start_date.strftime('%b %d, %Y') }}.{% endif %} {{ event.city }}, {{ event.country }}{% endfor %}
+* [{{ event.title }}]({{ event.link }}){% if event.end_date %}: {{ event.start_date.strftime('%b %d') }}-{{ event.end_date.strftime('%b %d, %Y') }}.{% else %}: {{ event.start_date.strftime('%b %d, %Y') }}{% if event.deadline %} (ddl: {{event.deadline.strftime('%b %d, %Y')}}){% endif %}.{% endif %} {{ event.city }}, {{ event.country }}{% endfor %}
 {% endfor %}
