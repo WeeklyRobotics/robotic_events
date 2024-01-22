@@ -72,7 +72,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [AIRA Challenge 2024](https://www.aira-challenge.com): Jun 10-Jun 14, 2024. Frankfurt am Main, Germany
 * [RoboCup 2024](https://2024.robocup.org/): Jul 17-Jul 22, 2024. Eindhoven, Netherlands
 * [IRoC-U2024](https://www.ursc.gov.in/IRoC-U2024/events.jsp#main): Aug 05-Aug 06, 2024. Bengaluru, India
-* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Sep 06, 2024. tbd, United States of America
+* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Sep 06, 2024 (ddl: Dec 18, 2023). tbd, United States of America
 * [Cybathlon 2024](https://cybathlon.ethz.ch/en/events/edition/cybathlon-2024): Oct 25-Oct 27, 2024. Kloten, Switzerland
 
 ## Meetup
