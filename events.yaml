@@ -9,13 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROS Meetup Karlsruhe 2024
-  link: https://www.fzi.de/veranstaltungen/ros-meetup-karlsruhe/
-  start_date: 2024-01-23
-  city: Karlsruhe
-  country: Germany
-  category: Meetup
-
 - title: ROS Meetup Eindhoven 2024
   link: https://forms.office.com/e/gXV4rfNQnz
   start_date: 2024-01-25
