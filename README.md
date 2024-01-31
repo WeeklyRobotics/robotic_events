@@ -37,7 +37,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): Mar 11-Mar 15, 2024. Boulder, Colorado, United states of America
 * [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
 * [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
-* [Open Hardware Summit 2024](https://2024.oshwa.org/): Apr 26-Apr 27, 2024. Montreal, Canada
+* [Open Hardware Summit 2024](https://2024.oshwa.org/): May 03-May 04, 2024. Montreal, Canada
 * [ICCRE 2024](http://www.iccre.org/): May 10-May 12, 2024. Osaka, Japan
 * [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
 * [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
