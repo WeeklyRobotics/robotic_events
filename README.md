@@ -79,5 +79,5 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [ROS Meetup Lagos 2024](https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform): Feb 03, 2024. Lagos, Nigeria
-* [ROS Meetup Singapore 2024](https://www.meetup.com/singapore-ros-meetup/events/298653054/): Feb 07, 2024. Singapore, Singapore
+* [ROS Meetup Singapore 2024](https://www.meetup.com/singapore-ros-meetup/events/298653054/): Feb 02, 2024. Singapore, Singapore
 * [ROS Meetup Munich 2024](https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/): Feb 07, 2024. Munich, Germany
