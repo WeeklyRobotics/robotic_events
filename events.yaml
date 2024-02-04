@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROS Meetup Lagos 2024
-  link: 
-    https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
-  start_date: 2024-02-03
-  city: Lagos
-  country: Nigeria
-  category: Meetup
-
 - title: FOSdem 2024
   link: https://fosdem.org/2024/
   start_date: 2024-02-03
