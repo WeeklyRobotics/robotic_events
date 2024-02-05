@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: FOSdem 2024
-  link: https://fosdem.org/2024/
-  start_date: 2024-02-03
-  end_date: 2024-02-04
-  city: Brussels
-  country: Belgium
-  category: Conference
-
 - title: ROS Meetup Munich 2024
   link: 
     https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/

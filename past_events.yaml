@@ -110,3 +110,11 @@
   country: Nigeria
   category: Meetup
 
+- title: FOSdem 2024
+  link: https://fosdem.org/2024/
+  start_date: 2024-02-03
+  end_date: 2024-02-04
+  city: Brussels
+  country: Belgium
+  category: Conference
+
