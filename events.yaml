@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROS Meetup Munich 2024
-  link: 
-    https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
-  start_date: 2024-02-07
-  city: Munich
-  country: Germany
-  category: Meetup
-
 - title: ICARA 2024
   link: http://www.icara.us/index.html
   start_date: 2024-02-22
