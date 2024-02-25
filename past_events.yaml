@@ -126,3 +126,11 @@
   country: Germany
   category: Meetup
 
+- title: ICARA 2024
+  link: http://www.icara.us/index.html
+  start_date: 2024-02-22
+  end_date: 2024-02-24
+  city: Athens
+  country: Greece
+  category: Conference
+

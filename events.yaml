@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ICARA 2024
-  link: http://www.icara.us/index.html
-  start_date: 2024-02-22
-  end_date: 2024-02-24
-  city: Athens
-  country: Greece
-  category: Conference
-
 - title: HRI (Human robot interaction) 2024
   link: https://humanrobotinteraction.org/2024/
   start_date: 2024-03-11
