@@ -33,6 +33,14 @@
   country: Denmark
   category: Expo
 
+- title: Cracow Robotics & AI Club
+  link: https://www.meetup.com/cracow-robotics-ai-club/events/299752656/
+  start_date: 2024-03-25
+  end_date: 2024-03-25
+  city: Kraków
+  country: Poland
+  category: Meetup
+
 - title: RoboSoft 2024
   link: https://softroboticsconference.org/
   start_date: 2024-04-14
