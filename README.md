@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ICARA 2024](http://www.icara.us/index.html): Feb 22-Feb 24, 2024. Athens, Greece
 * [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): Mar 11-Mar 15, 2024. Boulder, Colorado, United States of America
 * [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
 * [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
@@ -77,3 +76,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Cracow Robotics & AI Club](https://www.meetup.com/cracow-robotics-ai-club/events/299752656/): Mar 25-Mar 25, 2024. Kraków, Poland
