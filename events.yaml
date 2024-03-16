@@ -9,30 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: HRI (Human robot interaction) 2024
-  link: https://humanrobotinteraction.org/2024/
-  start_date: 2024-03-11
-  end_date: 2024-03-15
-  city: Boulder, Colorado
-  country: United States of America
-  category: Conference
-
-- title: European Robotics Forum 2024
-  link: https://erf2024.eu/
-  start_date: 2024-03-13
-  end_date: 2024-03-15
-  city: Remini
-  country: Italy
-  category: Conference
-
-- title: R-24 Robots, Automation and Drones 2024
-  link: https://roboticsevent.eu/en/
-  start_date: 2024-03-13
-  end_date: 2024-03-15
-  city: Odense
-  country: Denmark
-  category: Expo
-
 - title: Cracow Robotics & AI Club
   link: https://www.meetup.com/cracow-robotics-ai-club/events/299752656/
   start_date: 2024-03-25
