@@ -32,8 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [HRI (Human robot interaction) 2024](https://humanrobotinteraction.org/2024/): Mar 11-Mar 15, 2024. Boulder, Colorado, United States of America
-* [European Robotics Forum 2024](https://erf2024.eu/): Mar 13-Mar 15, 2024. Remini, Italy
 * [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
 * [Open Hardware Summit 2024](https://2024.oshwa.org/): May 03-May 04, 2024. Montreal, Canada
 * [ICCRE 2024](http://www.iccre.org/): May 10-May 12, 2024. Osaka, Japan
@@ -52,10 +50,10 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [R-24 Robots, Automation and Drones 2024](https://roboticsevent.eu/en/): Mar 13-Mar 15, 2024. Odense, Denmark
 * [Xponential](https://www.xponential.org/xponential2024/public/enter.aspx): Apr 22-Apr 25, 2024. San Diego, United States of America
 * [Robotics Summit & Expo](https://www.roboticssummit.com/): May 01-May 02, 2024. Boston, United States of America
 * [Automate](https://www.automateshow.com/): May 06-May 09, 2024. Chicago, United States of America
+* [Commercial UAV Expo](https://www.expouav.com): Sep 03-Sep 05, 2024. Las Vegas, United States of America
 * [ProMat](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, United States of America
 * [Automatica](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
 
@@ -76,4 +74,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Cracow Robotics & AI Club](https://www.meetup.com/cracow-robotics-ai-club/events/299752656/): Mar 25-Mar 25, 2024. Kraków, Poland
