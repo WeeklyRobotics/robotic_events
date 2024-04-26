@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Xponential
-  link: https://www.xponential.org/xponential2024/public/enter.aspx
-  start_date: 2024-04-22
-  end_date: 2024-04-25
-  city: San Diego
-  country: United States of America
-  category: Expo
-
 - title: Robotics Summit & Expo
   link: https://www.roboticssummit.com/
   start_date: 2024-05-01
