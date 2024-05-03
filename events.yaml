@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Robotics Summit & Expo
-  link: https://www.roboticssummit.com/
-  start_date: 2024-05-01
-  end_date: 2024-05-02
-  city: Boston
-  country: United States of America
-  category: Expo
-
 - title: Open Hardware Summit 2024
   link: https://2024.oshwa.org/
   start_date: 2024-05-03
