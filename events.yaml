@@ -131,6 +131,21 @@
   country: United States of America
   category: Competition
 
+- title: CppCon 2024
+  link: https://cppcon.org/
+  start_date: 2024-09-15
+  end_date: 2024-09-20
+  city: Aurora
+  country: United States of America
+  category: Conference
+
+- title: Actuate Summit
+  link: https://actuate.foxglove.dev/
+  start_date: 2024-09-18
+  city: San Francisco
+  country: United States of America
+  category: Conference
+
 - title: ANTS (Swarm robotics) 2024
   link: https://www.uni-konstanz.de/ants-2024/
   start_date: 2024-10-09
