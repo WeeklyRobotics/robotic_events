@@ -32,8 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [RoboSoft 2024](https://softroboticsconference.org/): Apr 14-Apr 17, 2024. San Diego, United States of America
-* [Open Hardware Summit 2024](https://2024.oshwa.org/): May 03-May 04, 2024. Montreal, Canada
 * [ICCRE 2024](http://www.iccre.org/): May 10-May 12, 2024. Osaka, Japan
 * [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
 * [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
@@ -42,6 +40,8 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ROSCON France 2024](https://roscon.fr/): Jun 19-Jun 20, 2024. Nantes, France
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
+* [CppCon 2024](https://cppcon.org/): Sep 15-Sep 20, 2024. Aurora, United States of America
+* [Actuate Summit](https://actuate.foxglove.dev/): Sep 18, 2024. San Francisco, United States of America
 * [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
 * [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
 * [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
@@ -50,8 +50,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [Xponential](https://www.xponential.org/xponential2024/public/enter.aspx): Apr 22-Apr 25, 2024. San Diego, United States of America
-* [Robotics Summit & Expo](https://www.roboticssummit.com/): May 01-May 02, 2024. Boston, United States of America
 * [Automate](https://www.automateshow.com/): May 06-May 09, 2024. Chicago, United States of America
 * [Commercial UAV Expo](https://www.expouav.com): Sep 03-Sep 05, 2024. Las Vegas, United States of America
 * [ProMat](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, United States of America
