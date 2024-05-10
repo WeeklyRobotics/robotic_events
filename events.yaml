@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Automate
-  link: https://www.automateshow.com/
-  start_date: 2024-05-06
-  end_date: 2024-05-09
-  city: Chicago
-  country: United States of America
-  category: Expo
-
 - title: Eurobot Open 2024
   link: https://www.eurobot.org
   start_date: 2024-05-08
