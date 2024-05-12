@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Eurobot Open 2024
-  link: https://www.eurobot.org
-  start_date: 2024-05-08
-  end_date: 2024-05-11
-  city: La Roche-sur-Yon
-  country: France
-  category: Competition
-
 - title: ICCRE 2024
   link: http://www.iccre.org/
   start_date: 2024-05-10
