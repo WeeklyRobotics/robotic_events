@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ISMR (Medical Robotics) 2024
-  link: https://ismr.gatech.edu/
-  start_date: 2024-06-03
-  end_date: 2024-06-05
-  city: Atlanta, Georgia
-  country: United States
-  category: Conference
-
 - title: ICUAS (UAVs) 2024
   link: https://uasconferences.com/2024_icuas/
   start_date: 2024-06-04
