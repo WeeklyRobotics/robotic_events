@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ICUAS (UAVs) 2024
-  link: https://uasconferences.com/2024_icuas/
-  start_date: 2024-06-04
-  end_date: 2024-06-07
-  city: Chania, Crete
-  country: Greece
-  category: Conference
-
 - title: AIRA Challenge 2024
   link: https://www.aira-challenge.com
   start_date: 2024-06-10
