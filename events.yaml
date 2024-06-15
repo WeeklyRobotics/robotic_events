@@ -9,15 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: AIRA Challenge 2024
-  link: https://www.aira-challenge.com
-  start_date: 2024-06-10
-  end_date: 2024-06-14
-  deadline: 2024-01-07
-  city: Frankfurt am Main
-  country: Germany
-  category: Competition
-
 - title: ROSCON France 2024
   link: https://roscon.fr/
   start_date: 2024-06-19
