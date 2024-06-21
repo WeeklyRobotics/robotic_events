@@ -263,3 +263,11 @@
   country: Germany
   category: Competition
 
+- title: ROSCON France 2024
+  link: https://roscon.fr/
+  start_date: 2024-06-19
+  end_date: 2024-06-20
+  city: Nantes
+  country: France
+  category: Conference
+
