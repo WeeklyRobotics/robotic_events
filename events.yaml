@@ -73,6 +73,21 @@
   country: United States of America
   category: Conference
 
+- title: ICRA 40th Anniversary 2024
+  link: https://icra40.ieee.org/
+  start_date: 2024-09-23
+  end_date: 2024-09-26
+  city: Rotterdam
+  country: Netherlands
+  category: Conference
+
+- title: ROSCon JP 2024
+  link: https://roscon.jp/
+  start_date: 2024-23-13
+  city: Tokyo
+  country: Japan
+  category: Conference
+
 - title: ANTS (Swarm robotics) 2024
   link: https://www.uni-konstanz.de/ants-2024/
   start_date: 2024-10-09
@@ -113,6 +128,14 @@
   city: Kloten
   country: Switzerland
   category: Competition
+
+- title: ROSCon China 2024
+  link: http://roscon.roseducation.org.cn/2024/en/
+  start_date: 2024-11-2
+  end_date: 2024-11-3
+  city: Odense
+  country: Denmark
+  category: Conference
 
 - title: ProMat
   link: https://www.promatshow.com/
