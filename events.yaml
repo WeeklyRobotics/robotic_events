@@ -73,6 +73,14 @@
   country: United States of America
   category: Conference
 
+- title: ROSCon Spain 2024
+  link: https://roscon.org.es/ROSConES2024.html
+  start_date: 2024-09-19
+  end_date: 2024-09-20
+  city: Sevilla
+  country: Spain
+  category: Conference
+
 - title: ICRA 40th Anniversary 2024
   link: https://icra40.ieee.org/
   start_date: 2024-09-23
@@ -83,7 +91,7 @@
 
 - title: ROSCon JP 2024
   link: https://roscon.jp/
-  start_date: 2024-23-13
+  start_date: 2024-09-25
   city: Tokyo
   country: Japan
   category: Conference
@@ -131,10 +139,10 @@
 
 - title: ROSCon China 2024
   link: http://roscon.roseducation.org.cn/2024/en/
-  start_date: 2024-11-2
-  end_date: 2024-11-3
-  city: Odense
-  country: Denmark
+  start_date: 2024-11-02
+  end_date: 2024-11-03
+  city: Shenzhen
+  country: China
   category: Conference
 
 - title: ProMat
