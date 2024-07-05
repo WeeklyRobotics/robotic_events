@@ -32,25 +32,22 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ICCRE 2024](http://www.iccre.org/): May 10-May 12, 2024. Osaka, Japan
-* [ICRA 2024](https://2024.ieee-icra.org/): May 13-May 17, 2024. Yokohama, Japan
-* [ISMR (Medical Robotics) 2024](https://ismr.gatech.edu/): Jun 03-Jun 05, 2024. Atlanta, Georgia, United States
-* [ICUAS (UAVs) 2024](https://uasconferences.com/2024_icuas/): Jun 04-Jun 07, 2024. Chania, Crete, Greece
-* [Energy Drone & Robotics Coalition 2024](https://www.edrcoalition.com/energy-drone-robotics-summit-2024): Jun 10-Jun 12, 2024. Houston, United States
-* [ROSCON France 2024](https://roscon.fr/): Jun 19-Jun 20, 2024. Nantes, France
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
 * [CppCon 2024](https://cppcon.org/): Sep 15-Sep 20, 2024. Aurora, United States of America
 * [Actuate Summit](https://actuate.foxglove.dev/): Sep 18, 2024. San Francisco, United States of America
+* [ROSCon Spain 2024](https://roscon.org.es/ROSConES2024.html): Sep 19-Sep 20, 2024. Sevilla, Spain
+* [ICRA 40th Anniversary 2024](https://icra40.ieee.org/): Sep 23-Sep 26, 2024. Rotterdam, Netherlands
+* [ROSCon JP 2024](https://roscon.jp/): Sep 25, 2024. Tokyo, Japan
 * [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
 * [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
 * [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
 * [ROSCon 2024](https://roscon.ros.org/2024/): Oct 21-Oct 23, 2024. Odense, Denmark
+* [ROSCon China 2024](http://roscon.roseducation.org.cn/2024/en/): Nov 02-Nov 03, 2024. Shenzhen, China
 
 ## Expo
 
 
-* [Automate](https://www.automateshow.com/): May 06-May 09, 2024. Chicago, United States of America
 * [Commercial UAV Expo](https://www.expouav.com): Sep 03-Sep 05, 2024. Las Vegas, United States of America
 * [ProMat](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, United States of America
 * [Automatica](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
@@ -62,8 +59,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [Eurobot Open 2024](https://www.eurobot.org): May 08-May 11, 2024. La Roche-sur-Yon, France
-* [AIRA Challenge 2024](https://www.aira-challenge.com): Jun 10-Jun 14, 2024. Frankfurt am Main, Germany
 * [RoboCup 2024](https://2024.robocup.org/): Jul 17-Jul 22, 2024. Eindhoven, Netherlands
 * [IRoC-U2024](https://www.ursc.gov.in/IRoC-U2024/events.jsp#main): Aug 05-Aug 06, 2024. Bengaluru, India
 * [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Sep 06, 2024 (ddl: Dec 18, 2023). tbd, United States of America
