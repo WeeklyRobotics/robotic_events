@@ -271,3 +271,11 @@
   country: France
   category: Conference
 
+- title: 'Robotics: Science and Systems 2024'
+  link: https://roboticsconference.org/
+  start_date: 2024-07-15
+  end_date: 2024-07-19
+  city: Delft
+  country: The Netherlands
+  category: Conference
+
