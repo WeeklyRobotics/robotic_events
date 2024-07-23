@@ -279,3 +279,11 @@
   country: The Netherlands
   category: Conference
 
+- title: RoboCup 2024
+  link: https://2024.robocup.org/
+  start_date: 2024-07-17
+  end_date: 2024-07-22
+  city: Eindhoven
+  country: Netherlands
+  category: Competition
+
