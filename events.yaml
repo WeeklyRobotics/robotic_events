@@ -9,159 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: HRI (Human robot interaction) 2024
-  link: https://humanrobotinteraction.org/2024/
-  start_date: 2024-03-11
-  end_date: 2024-03-15
-  city: Boulder, Colorado
-  country: United States of America
-  category: Conference
-
-- title: European Robotics Forum 2024
-  link: https://erf2024.eu/
-  start_date: 2024-03-13
-  end_date: 2024-03-15
-  city: Remini
-  country: Italy
-  category: Conference
-
-- title: R-24 Robots, Automation and Drones 2024
-  link: https://roboticsevent.eu/en/
-  start_date: 2024-03-13
-  end_date: 2024-03-15
-  city: Odense
-  country: Denmark
-  category: Expo
-
-- title: Cracow Robotics & AI Club
-  link: https://www.meetup.com/cracow-robotics-ai-club/events/299752656/
-  start_date: 2024-03-25
-  end_date: 2024-03-25
-  city: Kraków
-  country: Poland
-  category: Meetup
-
-- title: RoboSoft 2024
-  link: https://softroboticsconference.org/
-  start_date: 2024-04-14
-  end_date: 2024-04-17
-  city: San Diego
-  country: United States of America
-  category: Conference
-
-- title: Xponential
-  link: https://www.xponential.org/xponential2024/public/enter.aspx
-  start_date: 2024-04-22
-  end_date: 2024-04-25
-  city: San Diego
-  country: United States of America
-  category: Expo
-
-- title: Robotics Summit & Expo
-  link: https://www.roboticssummit.com/
-  start_date: 2024-05-01
-  end_date: 2024-05-02
-  city: Boston
-  country: United States of America
-  category: Expo
-
-- title: Open Hardware Summit 2024
-  link: https://2024.oshwa.org/
-  start_date: 2024-05-03
-  end_date: 2024-05-04
-  city: Montreal
-  country: Canada
-  category: Conference
-
-- title: Automate
-  link: https://www.automateshow.com/
-  start_date: 2024-05-06
-  end_date: 2024-05-09
-  city: Chicago
-  country: United States of America
-  category: Expo
-
-- title: Eurobot Open 2024
-  link: https://www.eurobot.org
-  start_date: 2024-05-08
-  end_date: 2024-05-11
-  city: La Roche-sur-Yon
-  country: France
-  category: Competition
-
-- title: ICCRE 2024
-  link: http://www.iccre.org/
-  start_date: 2024-05-10
-  end_date: 2024-05-12
-  city: Osaka
-  country: Japan
-  category: Conference
-
-- title: ICRA 2024
-  link: https://2024.ieee-icra.org/
-  start_date: 2024-05-13
-  end_date: 2024-05-17
-  city: Yokohama
-  country: Japan
-  category: Conference
-
-- title: ISMR (Medical Robotics) 2024
-  link: https://ismr.gatech.edu/
-  start_date: 2024-06-03
-  end_date: 2024-06-05
-  city: Atlanta, Georgia
-  country: United States
-  category: Conference
-
-- title: ICUAS (UAVs) 2024
-  link: https://uasconferences.com/2024_icuas/
-  start_date: 2024-06-04
-  end_date: 2024-06-07
-  city: Chania, Crete
-  country: Greece
-  category: Conference
-
-- title: AIRA Challenge 2024
-  link: https://www.aira-challenge.com
-  start_date: 2024-06-10
-  end_date: 2024-06-14
-  deadline: 2024-01-07
-  city: Frankfurt am Main
-  country: Germany
-  category: Competition
-
-- title: Energy Drone & Robotics Coalition 2024
-  link: https://www.edrcoalition.com/energy-drone-robotics-summit-2024
-  start_date: 2024-06-10
-  end_date: 2024-06-12
-  city: Houston
-  country: United States
-  category: Conference
-
-- title: ROSCON France 2024
-  link: https://roscon.fr/
-  start_date: 2024-06-19
-  end_date: 2024-06-20
-  city: Nantes
-  country: France
-  category: Conference
-
-- title: 'Robotics: Science and Systems 2024'
-  link: https://roboticsconference.org/
-  start_date: 2024-07-15
-  end_date: 2024-07-19
-  city: Delft
-  country: The Netherlands
-  category: Conference
-
-- title: RoboCup 2024
-  link: https://2024.robocup.org/
-  start_date: 2024-07-17
-  end_date: 2024-07-22
-  city: Eindhoven
-  country: Netherlands
-  category: Competition
-
 - title: IRoC-U2024
   link: https://www.ursc.gov.in/IRoC-U2024/events.jsp#main
   start_date: 2024-08-05
@@ -187,6 +34,14 @@
   country: Spain
   category: Conference
 
+- title: Commercial UAV Expo
+  link: https://www.expouav.com
+  start_date: 2024-09-03
+  end_date: 2024-09-05
+  city: Las Vegas
+  country: United States of America
+  category: Expo
+
 - title: Farm Robotics Challenge
   link: https://farmroboticschallenge.ai/
   start_date: 2024-09-06
@@ -194,6 +49,44 @@
   city: tbd
   country: United States of America
   category: Competition
+
+- title: CppCon 2024
+  link: https://cppcon.org/
+  start_date: 2024-09-15
+  end_date: 2024-09-20
+  city: Aurora
+  country: United States of America
+  category: Conference
+
+- title: Actuate Summit
+  link: https://actuate.foxglove.dev/
+  start_date: 2024-09-18
+  city: San Francisco
+  country: United States of America
+  category: Conference
+
+- title: ROSCon Spain 2024
+  link: https://roscon.org.es/ROSConES2024.html
+  start_date: 2024-09-19
+  end_date: 2024-09-20
+  city: Sevilla
+  country: Spain
+  category: Conference
+
+- title: ICRA 40th Anniversary 2024
+  link: https://icra40.ieee.org/
+  start_date: 2024-09-23
+  end_date: 2024-09-26
+  city: Rotterdam
+  country: Netherlands
+  category: Conference
+
+- title: ROSCon JP 2024
+  link: https://roscon.jp/
+  start_date: 2024-09-25
+  city: Tokyo
+  country: Japan
+  category: Conference
 
 - title: ANTS (Swarm robotics) 2024
   link: https://www.uni-konstanz.de/ants-2024/
@@ -235,6 +128,14 @@
   city: Kloten
   country: Switzerland
   category: Competition
+
+- title: ROSCon China 2024
+  link: http://roscon.roseducation.org.cn/2024/en/
+  start_date: 2024-11-02
+  end_date: 2024-11-03
+  city: Shenzhen
+  country: China
+  category: Conference
 
 - title: ProMat
   link: https://www.promatshow.com/
