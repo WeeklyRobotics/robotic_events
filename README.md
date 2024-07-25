@@ -44,6 +44,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ROSCON France 2024](https://roscon.fr/): Jun 19-Jun 20, 2024. Nantes, France
 * [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
 * [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
+* [ROSCon España 2024](https://roscon.org.es/ROSConES2024.html): Sep 19-Sep 20, 2024. Sevilla, Spain
 * [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
 * [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
 * [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
