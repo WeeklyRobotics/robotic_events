@@ -9,15 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: IRoC-U2024
-  link: https://www.ursc.gov.in/IRoC-U2024/events.jsp#main
-  start_date: 2024-08-05
-  end_date: 2024-08-06
-  deadline: 2024-01-15
-  city: Bengaluru
-  country: India
-  category: Competition
-
 - title: BioRob 2024
   link: https://www.biorob2024.org/home/
   start_date: 2024-09-01
