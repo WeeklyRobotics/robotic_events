@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: BioRob 2024
-  link: https://www.biorob2024.org/home/
-  start_date: 2024-09-01
-  end_date: 2024-09-04
-  city: Heidelberg
-  country: Germany
-  category: Conference
-
 - title: Commercial UAV Expo
   link: https://www.expouav.com
   start_date: 2024-09-03
