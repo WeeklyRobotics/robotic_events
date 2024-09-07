@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Farm Robotics Challenge
-  link: https://farmroboticschallenge.ai/
-  start_date: 2024-09-06
-  deadline: 2023-12-18
-  city: tbd
-  country: United States of America
-  category: Competition
-
 - title: CppCon 2024
   link: https://cppcon.org/
   start_date: 2024-09-15
