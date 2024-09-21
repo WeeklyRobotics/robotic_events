@@ -9,22 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: CppCon 2024
-  link: https://cppcon.org/
-  start_date: 2024-09-15
-  end_date: 2024-09-20
-  city: Aurora
-  country: United States of America
-  category: Conference
-
-- title: ROSCon Spain 2024
-  link: https://roscon.org.es/ROSConES2024.html
-  start_date: 2024-09-19
-  end_date: 2024-09-20
-  city: Sevilla
-  country: Spain
-  category: Conference
-
 - title: ICRA 40th Anniversary 2024
   link: https://icra40.ieee.org/
   start_date: 2024-09-23
