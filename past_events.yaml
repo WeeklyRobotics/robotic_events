@@ -343,3 +343,10 @@
   country: Spain
   category: Conference
 
+- title: ROSCon JP 2024
+  link: https://roscon.jp/
+  start_date: 2024-09-25
+  city: Tokyo
+  country: Japan
+  category: Conference
+
