@@ -343,6 +343,14 @@
   country: Spain
   category: Conference
 
+- title: ICRA 40th Anniversary 2024
+  link: https://icra40.ieee.org/
+  start_date: 2024-09-23
+  end_date: 2024-09-26
+  city: Rotterdam
+  country: Netherlands
+  category: Conference
+
 - title: ROSCon JP 2024
   link: https://roscon.jp/
   start_date: 2024-09-25
