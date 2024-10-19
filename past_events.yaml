@@ -366,6 +366,14 @@
   country: Germany
   category: Conference
 
+- title: IROS 2024
+  link: https://iros2024-abudhabi.org/
+  start_date: 2024-10-14
+  end_date: 2024-10-18
+  city: Abu Dhabi
+  country: Emirate of Abu Dhabi
+  category: Conference
+
 - title: RoboBusiness
   link: https://www.robobusiness.com/
   start_date: 2024-10-16
