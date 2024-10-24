@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROSCon 2024
-  link: https://roscon.ros.org/2024/
-  start_date: 2024-10-21
-  end_date: 2024-10-23
-  city: Odense
-  country: Denmark
-  category: Conference
-
 - title: Cybathlon 2024
   link: https://cybathlon.ethz.ch/en/events/edition/cybathlon-2024
   start_date: 2024-10-25
