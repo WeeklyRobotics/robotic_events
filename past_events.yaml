@@ -390,3 +390,12 @@
   country: Denmark
   category: Conference
 
+- title: Cybathlon 2024
+  link: https://cybathlon.ethz.ch/en/events/edition/cybathlon-2024
+  start_date: 2024-10-25
+  end_date: 2024-10-27
+  deadline: 2024-03-31
+  city: Kloten
+  country: Switzerland
+  category: Competition
+
