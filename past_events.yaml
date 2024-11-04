@@ -399,3 +399,11 @@
   country: Switzerland
   category: Competition
 
+- title: ROSCon China 2024
+  link: http://roscon.roseducation.org.cn/2024/en/
+  start_date: 2024-11-02
+  end_date: 2024-11-03
+  city: Shenzhen
+  country: China
+  category: Conference
+
