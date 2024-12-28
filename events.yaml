@@ -9,30 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ProMat 2025
-  link: https://www.promatshow.com/
-  start_date: 2025-03-17
-  end_date: 2025-03-20
-  city: Chicago, Illinois
-  country: United States of America
-  category: Expo
-
-- title: Automatica 2025
-  link: https://automatica-munich.com/en/
-  start_date: 2025-06-24
-  end_date: 2025-06-27
-  city: Munich
-  country: Germany
-  category: Expo
-
-- title: Conference on Robot Learning 2025
-  link: https://www.corl.org/home
-  start_date: 2025-09-27
-  end_date: 2025-09-30
-  city: Seoul
-  country: Korea
-  category: Conference
-
 - title: FOSDEM 2025 - Robotics & Simulation Developer Room
   link: https://fosdem.org/2025/
   start_date: 2025-02-01
@@ -49,6 +25,14 @@
   country: Croatia
   category: Conference
 
+- title: Xponential Europe 2025
+  link: https://www.xponential-europe.com/
+  start_date: 2025-02-18
+  end_date: 2025-02-20
+  city: Dusseldorf
+  country: Germany
+  category: Expo
+
 - title: HRI (Human robot interaction) 2025
   link: https://humanrobotinteraction.org/2025/
   start_date: 2025-03-04
@@ -56,6 +40,14 @@
   city: Melbourn
   country: Australia
   category: Conference
+
+- title: ProMat 2025
+  link: https://www.promatshow.com/
+  start_date: 2025-03-17
+  end_date: 2025-03-20
+  city: Chicago, Illinois
+  country: United States of America
+  category: Expo
 
 - title: European Robotics Forum 2025
   link: https://erf2025.eu/
@@ -73,21 +65,13 @@
   country: Switzerland
   category: Conference
 
-- title: Xponential Europe 2025
-  link: https://www.xponential-europe.com/
-  start_date: 2025-02-18
-  end_date: 2025-02-20
-  city: Dusseldorf
-  country: Germany
-  category: Expo
-
-- title: Xponential 2025
-  link: https://xponential.org/
-  start_date: 2025-05-19
-  end_date: 2025-05-22
-  city: Houston, Texas
+- title: Farm Robotics Challenge
+  link: https://farmroboticschallenge.ai/
+  start_date: 2025-04-24
+  deadline: 2024-12-12
+  city: Davis, California
   country: United States of America
-  category: Expo
+  category: Competition
 
 - title: Robotics Summit & Expo 2025
   link: https://www.roboticssummit.com/
@@ -97,14 +81,6 @@
   country: United States of America
   category: Expo
 
-- title: Open Hardware Summit 2025
-  link: https://2025.oshwa.org/
-  start_date: 2025-05-30
-  end_date: 2025-05-31
-  city: Edinburgh
-  country: Scotland
-  category: Conference
-
 - title: Automate 2025
   link: https://www.automateshow.com/
   start_date: 2025-05-12
@@ -112,22 +88,6 @@
   city: Detroit, Michigan
   country: United States of America
   category: Expo
-
-- title: Eurobot Open 2025
-  link: https://www.eurobot.org
-  start_date: 2025-05-28
-  end_date: 2025-05-31
-  city: La Roche-sur-Yon
-  country: France
-  category: Competition
-
-- title: ICRA 2025
-  link: https://2025.ieee-icra.org/
-  start_date: 2025-05-19
-  end_date: 2025-05-23
-  city: Atlanta, Georgia
-  country: United States of America
-  category: Conference
 
 - title: ICUAS (UAVs) 2025
   link: https://uasconferences.com/2025_icuas/
@@ -137,6 +97,38 @@
   country: United States of America
   category: Conference
 
+- title: Xponential 2025
+  link: https://xponential.org/
+  start_date: 2025-05-19
+  end_date: 2025-05-22
+  city: Houston, Texas
+  country: United States of America
+  category: Expo
+
+- title: ICRA 2025
+  link: https://2025.ieee-icra.org/
+  start_date: 2025-05-19
+  end_date: 2025-05-23
+  city: Atlanta, Georgia
+  country: United States of America
+  category: Conference
+
+- title: Eurobot Open 2025
+  link: https://www.eurobot.org
+  start_date: 2025-05-28
+  end_date: 2025-05-31
+  city: La Roche-sur-Yon
+  country: France
+  category: Competition
+
+- title: Open Hardware Summit 2025
+  link: https://2025.oshwa.org/
+  start_date: 2025-05-30
+  end_date: 2025-05-31
+  city: Edinburgh
+  country: Scotland
+  category: Conference
+
 - title: 'Robotics: Science and Systems 2025'
   link: https://roboticsconference.org/2025/
   start_date: 2025-06-21
@@ -144,6 +136,14 @@
   city: Los Angeles, California
   country: United States of America
   category: Conference
+
+- title: Automatica 2025
+  link: https://automatica-munich.com/en/
+  start_date: 2025-06-24
+  end_date: 2025-06-27
+  city: Munich
+  country: Germany
+  category: Expo
 
 - title: RoboCup 2025
   link: https://2025.robocup.org/
@@ -161,20 +161,12 @@
   country: United States of America
   category: Expo
 
-- title: Farm Robotics Challenge
-  link: https://farmroboticschallenge.ai/
-  start_date: 2025-04-24
-  deadline: 2024-12-12
-  city: Davis, California
-  country: United States of America
-  category: Competition
-
-- title: IROS 2025
-  link: http://www.iros25.org/
-  start_date: 2025-10-18
-  end_date: 2025-10-25
-  city: Hangzhou
-  country: China
+- title: Conference on Robot Learning 2025
+  link: https://www.corl.org/home
+  start_date: 2025-09-27
+  end_date: 2025-09-30
+  city: Seoul
+  country: Korea
   category: Conference
 
 - title: RoboBusiness 2025
@@ -184,3 +176,11 @@
   city: Santa Clara
   country: United States of America
   category: Expo
+- title: IROS 2025
+  link: http://www.iros25.org/
+  start_date: 2025-10-18
+  end_date: 2025-10-25
+  city: Hangzhou
+  country: China
+  category: Conference
+
