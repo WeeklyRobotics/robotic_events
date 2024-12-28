@@ -1,5 +1,5 @@
 # Robotic Events
-A repository containing upcoming events in robotics maintained by [](https://www.linkedin.com/in/knmcguire/) and [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/).
+A repository containing upcoming events in robotics maintained by [Kimberly McGuire](https://www.linkedin.com/in/knmcguire/) and [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/).
 
 The events in this repository are rendered on the [Weekly Robotics website](https://www.weeklyrobotics.com/events) and this README file.
 
@@ -32,27 +32,27 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [FOSDEM 2025 - Robotics & Simulation Developer Room](https://fosdem.org/2025/): Feb 01-Feb 02, 2025. Brussels, Belgium
 * [ICARA 2025](http://www.icara.us/index.html): Feb 12-Feb 14, 2025. Zagreb, Croatia
 * [HRI (Human robot interaction) 2025](https://humanrobotinteraction.org/2025/): Mar 04-Mar 06, 2025. Melbourn, Australia
 * [RoboSoft 2025](https://robosoft2025.org/): Apr 23-Apr 26, 2025. Lausanne, Switzerland
-* [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
-* [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
 * [ICUAS (UAVs) 2025](https://uasconferences.com/2025_icuas/): May 14-May 17, 2025. Charlotte, North Carolina, United States of America
+* [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
+* [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
 * [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
+* [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 
 ## Expo
 
 
-* [ProMat 2025](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, Illinois, United States of America
-* [Automatica 2025](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
-* [European Robotics Forum 2025](https://erf2025.eu/): Mar 25-Mar 27, 2025. Stuttgart, Germany
 * [Xponential Europe 2025](https://www.xponential-europe.com/): Feb 18-Feb 20, 2025. Dusseldorf, Germany
-* [Xponential 2025](https://xponential.org/): May 19-May 22, 2025. Houston, Texas, United States of America
+* [ProMat 2025](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, Illinois, United States of America
+* [European Robotics Forum 2025](https://erf2025.eu/): Mar 25-Mar 27, 2025. Stuttgart, Germany
 * [Robotics Summit & Expo 2025](https://www.roboticssummit.com/): Apr 30-May 01, 2025. Boston, Massachusetts, United States of America
 * [Automate 2025](https://www.automateshow.com/): May 12-May 15, 2025. Detroit, Michigan, United States of America
+* [Xponential 2025](https://xponential.org/): May 19-May 22, 2025. Houston, Texas, United States of America
+* [Automatica 2025](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
 * [Commercial UAV Expo](https://www.expouav.com): Sep 02-Sep 04, 2025. Las Vegas, United States of America
 * [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
 
@@ -63,9 +63,9 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
+* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Apr 24, 2025 (ddl: Dec 12, 2024). Davis, California, United States of America
 * [Eurobot Open 2025](https://www.eurobot.org): May 28-May 31, 2025. La Roche-sur-Yon, France
 * [RoboCup 2025](https://2025.robocup.org/): Jul 15-Jul 21, 2025. Salvador, Brazil
-* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Apr 24, 2025 (ddl: Dec 12, 2024). Davis, California, United States of America
 
 ## Meetup
 
