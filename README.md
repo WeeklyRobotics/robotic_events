@@ -32,25 +32,29 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Robotics: Science and Systems 2024](https://roboticsconference.org/): Jul 15-Jul 19, 2024. Delft, The Netherlands
-* [BioRob 2024](https://www.biorob2024.org/home/): Sep 01-Sep 04, 2024. Heidelberg, Germany
-* [CppCon 2024](https://cppcon.org/): Sep 15-Sep 20, 2024. Aurora, United States of America
-* [Actuate Summit](https://actuate.foxglove.dev/): Sep 18, 2024. San Francisco, United States of America
-* [ROSCon Spain 2024](https://roscon.org.es/ROSConES2024.html): Sep 19-Sep 20, 2024. Sevilla, Spain
-* [ICRA 40th Anniversary 2024](https://icra40.ieee.org/): Sep 23-Sep 26, 2024. Rotterdam, Netherlands
-* [ROSCon JP 2024](https://roscon.jp/): Sep 25, 2024. Tokyo, Japan
-* [ANTS (Swarm robotics) 2024](https://www.uni-konstanz.de/ants-2024/): Oct 09-Oct 11, 2024. Konstanz, Germany
-* [IROS 2024](https://iros2024-abudhabi.org/): Oct 14-Oct 18, 2024. Abu Dhabi, Emirate of Abu Dhabi
-* [RoboBusiness](https://www.robobusiness.com/): Oct 16-Oct 17, 2024. Santa Clara, United States of America
-* [ROSCon 2024](https://roscon.ros.org/2024/): Oct 21-Oct 23, 2024. Odense, Denmark
-* [ROSCon China 2024](http://roscon.roseducation.org.cn/2024/en/): Nov 02-Nov 03, 2024. Shenzhen, China
+* [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
+* [FOSDEM 2025 - Robotics & Simulation Developer Room](https://fosdem.org/2025/): Feb 01-Feb 02, 2025. Brussels, Belgium
+* [ICARA 2025](http://www.icara.us/index.html): Feb 12-Feb 14, 2025. Zagreb, Croatia
+* [HRI (Human robot interaction) 2025](https://humanrobotinteraction.org/2025/): Mar 04-Mar 06, 2025. Melbourn, Australia
+* [RoboSoft 2025](https://robosoft2025.org/): Apr 23-Apr 26, 2025. Lausanne, Switzerland
+* [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
+* [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
+* [ICUAS (UAVs) 2025](https://uasconferences.com/2025_icuas/): May 14-May 17, 2025. Charlotte, North Carolina, United States of America
+* [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
+* [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 
 ## Expo
 
 
-* [Commercial UAV Expo](https://www.expouav.com): Sep 03-Sep 05, 2024. Las Vegas, United States of America
-* [ProMat](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, United States of America
-* [Automatica](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
+* [ProMat 2025](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, Illinois, United States of America
+* [Automatica 2025](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
+* [European Robotics Forum 2025](https://erf2025.eu/): Mar 25-Mar 27, 2025. Stuttgart, Germany
+* [Xponential Europe 2025](https://www.xponential-europe.com/): Feb 18-Feb 20, 2025. Dusseldorf, Germany
+* [Xponential 2025](https://xponential.org/): May 19-May 22, 2025. Houston, Texas, United States of America
+* [Robotics Summit & Expo 2025](https://www.roboticssummit.com/): Apr 30-May 01, 2025. Boston, Massachusetts, United States of America
+* [Automate 2025](https://www.automateshow.com/): May 12-May 15, 2025. Detroit, Michigan, United States of America
+* [Commercial UAV Expo](https://www.expouav.com): Sep 02-Sep 04, 2025. Las Vegas, United States of America
+* [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
 
 ## Workshop
 
@@ -59,10 +63,9 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [RoboCup 2024](https://2024.robocup.org/): Jul 17-Jul 22, 2024. Eindhoven, Netherlands
-* [IRoC-U2024](https://www.ursc.gov.in/IRoC-U2024/events.jsp#main): Aug 05-Aug 06, 2024. Bengaluru, India
-* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Sep 06, 2024 (ddl: Dec 18, 2023). tbd, United States of America
-* [Cybathlon 2024](https://cybathlon.ethz.ch/en/events/edition/cybathlon-2024): Oct 25-Oct 27, 2024. Kloten, Switzerland
+* [Eurobot Open 2025](https://www.eurobot.org): May 28-May 31, 2025. La Roche-sur-Yon, France
+* [RoboCup 2025](https://2025.robocup.org/): Jul 15-Jul 21, 2025. Salvador, Brazil
+* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Apr 24, 2025 (ddl: Dec 12, 2024). Davis, California, United States of America
 
 ## Meetup
 
