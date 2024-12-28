@@ -1,5 +1,5 @@
 # Robotic Events
-A repository containing upcoming events in robotics maintained by [](https://www.linkedin.com/in/knmcguire/) and [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/).
+A repository containing upcoming events in robotics maintained by [Kimberly McGuire](https://www.linkedin.com/in/knmcguire/) and [Mat Sadowski](https://www.linkedin.com/in/mateuszsadowski/).
 
 The events in this repository are rendered on the [Weekly Robotics website](https://www.weeklyrobotics.com/events) and this README file.
 
@@ -68,5 +68,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Apr 24, 2025 (ddl: Dec 12, 2024). Davis, California, United States of America
 
 ## Meetup
-
-
