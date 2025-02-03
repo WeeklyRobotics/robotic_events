@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [FOSDEM 2025 - Robotics & Simulation Developer Room](https://fosdem.org/2025/): Feb 01-Feb 02, 2025. Brussels, Belgium
 * [ICARA 2025](http://www.icara.us/index.html): Feb 12-Feb 14, 2025. Zagreb, Croatia
 * [HRI (Human robot interaction) 2025](https://humanrobotinteraction.org/2025/): Mar 04-Mar 06, 2025. Melbourn, Australia
 * [RoboSoft 2025](https://robosoft2025.org/): Apr 23-Apr 26, 2025. Lausanne, Switzerland
