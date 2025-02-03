@@ -407,3 +407,11 @@
   country: China
   category: Conference
 
+- title: FOSDEM 2025 - Robotics & Simulation Developer Room
+  link: https://fosdem.org/2025/
+  start_date: 2025-02-01
+  end_date: 2025-02-02
+  city: Brussels
+  country: Belgium
+  category: Conference
+
