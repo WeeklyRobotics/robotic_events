@@ -44,7 +44,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [Xponential Europe 2025](https://www.xponential-europe.com/): Feb 18-Feb 20, 2025. Dusseldorf, Germany
 * [ProMat 2025](https://www.promatshow.com/): Mar 17-Mar 20, 2025. Chicago, Illinois, United States of America
 * [European Robotics Forum 2025](https://erf2025.eu/): Mar 25-Mar 27, 2025. Stuttgart, Germany
 * [Robotics Summit & Expo 2025](https://www.roboticssummit.com/): Apr 30-May 01, 2025. Boston, Massachusetts, United States of America
