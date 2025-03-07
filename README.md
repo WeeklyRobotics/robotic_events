@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [HRI (Human robot interaction) 2025](https://humanrobotinteraction.org/2025/): Mar 04-Mar 06, 2025. Melbourn, Australia
 * [RoboSoft 2025](https://robosoft2025.org/): Apr 23-Apr 26, 2025. Lausanne, Switzerland
 * [ICUAS (UAVs) 2025](https://uasconferences.com/2025_icuas/): May 14-May 17, 2025. Charlotte, North Carolina, United States of America
 * [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
