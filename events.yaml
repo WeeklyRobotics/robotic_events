@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: HRI (Human robot interaction) 2025
-  link: https://humanrobotinteraction.org/2025/
-  start_date: 2025-03-04
-  end_date: 2025-03-06
-  city: Melbourn
-  country: Australia
-  category: Conference
-
 - title: ProMat 2025
   link: https://www.promatshow.com/
   start_date: 2025-03-17
