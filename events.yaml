@@ -136,6 +136,14 @@
   country: Brazil
   category: Competition
 
+- title: CASE 2025
+  link: https://2025.ieeecase.org/
+  start_date: 2024-08-17
+  end_date: 2024-08-21
+  city: Los Angeles
+  country: US
+  category: Conference
+
 - title: Open Source Summit 2025 Europe
   link: https://events.linuxfoundation.org/open-source-summit-europe/
   start_date: 2025-08-25
