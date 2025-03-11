@@ -38,6 +38,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
 * [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
 * [Open Source Summit 2025 North America](https://events.linuxfoundation.org/open-source-summit-north-america/): Jul 23-Jul 25, 2025. Denver, United States of America
+* [CASE 2025](https://2025.ieeecase.org/): Aug 17-Aug 21, 2024. Los Angeles, US
 * [Open Source Summit 2025 Europe](https://events.linuxfoundation.org/open-source-summit-europe/): Aug 25-Aug 27, 2025. Amsterdam, Netherlands
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
