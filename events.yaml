@@ -33,13 +33,6 @@
   country: Switzerland
   category: Conference
 
-- title: 7th International Workshop on Robotics Software Engineering
-  link: https://rose-workshops.github.io/rose2025/
-  start_date: 2025-04-28
-  city: Ottawa
-  country: Canada
-  category: Workshop
-
 - title: Farm Robotics Challenge
   link: https://farmroboticschallenge.ai/
   start_date: 2025-04-24
@@ -47,6 +40,13 @@
   city: Davis, California
   country: United States of America
   category: Competition
+
+- title: 7th International Workshop on Robotics Software Engineering
+  link: https://rose-workshops.github.io/rose2025/
+  start_date: 2025-04-28
+  city: Ottawa
+  country: Canada
+  category: Workshop
 
 - title: Robotics Summit & Expo 2025
   link: https://www.roboticssummit.com/
@@ -120,14 +120,6 @@
   country: Germany
   category: Expo
 
-- title: Open Source Summit 2025 North America
-  link: https://events.linuxfoundation.org/open-source-summit-north-america/
-  start_date: 2025-07-23
-  end_date: 2025-07-25
-  city: Denver
-  country: United States of America
-  category: Conference
-
 - title: RoboCup 2025
   link: https://2025.robocup.org/
   start_date: 2025-07-15
@@ -136,12 +128,12 @@
   country: Brazil
   category: Competition
 
-- title: CASE 2025
-  link: https://2025.ieeecase.org/
-  start_date: 2024-08-17
-  end_date: 2024-08-21
-  city: Los Angeles
-  country: US
+- title: Open Source Summit 2025 North America
+  link: https://events.linuxfoundation.org/open-source-summit-north-america/
+  start_date: 2025-07-23
+  end_date: 2025-07-25
+  city: Denver
+  country: United States of America
   category: Conference
 
 - title: Open Source Summit 2025 Europe
