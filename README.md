@@ -45,7 +45,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [European Robotics Forum 2025](https://erf2025.eu/): Mar 25-Mar 27, 2025. Stuttgart, Germany
 * [Robotics Summit & Expo 2025](https://www.roboticssummit.com/): Apr 30-May 01, 2025. Boston, Massachusetts, United States of America
 * [Automate 2025](https://www.automateshow.com/): May 12-May 15, 2025. Detroit, Michigan, United States of America
 * [Xponential 2025](https://xponential.org/): May 19-May 22, 2025. Houston, Texas, United States of America
