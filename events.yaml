@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: European Robotics Forum 2025
-  link: https://erf2025.eu/
-  start_date: 2025-03-25
-  end_date: 2025-03-27
-  city: Stuttgart
-  country: Germany
-  category: Expo
-
 - title: RoboSoft 2025
   link: https://robosoft2025.org/
   start_date: 2025-04-23
