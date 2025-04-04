@@ -39,6 +39,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
 * [Open Source Summit 2025 North America](https://events.linuxfoundation.org/open-source-summit-north-america/): Jul 23-Jul 25, 2025. Denver, United States of America
 * [Open Source Summit 2025 Europe](https://events.linuxfoundation.org/open-source-summit-europe/): Aug 25-Aug 27, 2025. Amsterdam, Netherlands
+* [CppCon 2025 (robotics track)](https://cppcon.org/robotics-track/): Sep 13-Sep 19, 2025. Aurora, Colorado, United States of America
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 
@@ -51,6 +52,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [Automatica 2025](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
 * [Commercial UAV Expo](https://www.expouav.com): Sep 02-Sep 04, 2025. Las Vegas, United States of America
 * [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
+* [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
 
 ## Workshop
 
