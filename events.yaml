@@ -136,6 +136,14 @@
   country: United States of America
   category: Expo
 
+- title: CppCon 2025 (robotics track)
+  link: https://cppcon.org/robotics-track/
+  start_date: 2025-09-13
+  end_date: 2025-09-19
+  city: Aurora, Colorado
+  country: United States of America
+  category: Conference
+
 - title: Conference on Robot Learning 2025
   link: https://www.corl.org/home
   start_date: 2025-09-27
@@ -159,3 +167,11 @@
   city: Hangzhou
   country: China
   category: Conference
+
+- title: Embedded World 2026
+  link: https://www.embedded-world.de/en
+  start_date: 2026-03-10
+  end_date: 2026-03-12
+  city: Nuremberg
+  country: Germany
+  category: Expo
