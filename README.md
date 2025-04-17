@@ -43,6 +43,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ROSCon UK 2025](https://roscon.org.uk): Sep 15-Sep 17, 2025. Edinburgh, United Kingdom
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
+* [ROSCon 2025](https://roscon.ros.org/2025/): Oct 27-Oct 29, 2025. Singapore, Republic of Singapore
 
 ## Expo
 
