@@ -65,7 +65,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [Farm Robotics Challenge](https://farmroboticschallenge.ai/): Apr 24, 2025 (ddl: Dec 12, 2024). Davis, California, United States of America
 * [Eurobot Open 2025](https://www.eurobot.org): May 28-May 31, 2025. La Roche-sur-Yon, France
 * [RoboCup 2025](https://2025.robocup.org/): Jul 15-Jul 21, 2025. Salvador, Brazil
 
