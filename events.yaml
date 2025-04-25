@@ -17,14 +17,6 @@
   country: Switzerland
   category: Conference
 
-- title: Farm Robotics Challenge
-  link: https://farmroboticschallenge.ai/
-  start_date: 2025-04-24
-  deadline: 2024-12-12
-  city: Davis, California
-  country: United States of America
-  category: Competition
-
 - title: 7th International Workshop on Robotics Software Engineering
   link: https://rose-workshops.github.io/rose2025/
   start_date: 2025-04-28
