@@ -463,6 +463,14 @@
   country: Germany
   category: Expo
 
+- title: RoboSoft 2025
+  link: https://robosoft2025.org/
+  start_date: 2025-04-23
+  end_date: 2025-04-26
+  city: Lausanne
+  country: Switzerland
+  category: Conference
+
 - title: Farm Robotics Challenge
   link: https://farmroboticschallenge.ai/
   start_date: 2025-04-24
