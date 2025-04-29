@@ -60,7 +60,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Workshop
 
 
-* [7th International Workshop on Robotics Software Engineering](https://rose-workshops.github.io/rose2025/): Apr 28, 2025. Ottawa, Canada
 
 ## Competition
 
