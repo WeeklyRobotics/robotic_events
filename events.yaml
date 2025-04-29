@@ -9,13 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: 7th International Workshop on Robotics Software Engineering
-  link: https://rose-workshops.github.io/rose2025/
-  start_date: 2025-04-28
-  city: Ottawa
-  country: Canada
-  category: Workshop
-
 - title: Robotics Summit & Expo 2025
   link: https://www.roboticssummit.com/
   start_date: 2025-04-30
