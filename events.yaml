@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Robotics Summit & Expo 2025
-  link: https://www.roboticssummit.com/
-  start_date: 2025-04-30
-  end_date: 2025-05-01
-  city: Boston, Massachusetts
-  country: United States of America
-  category: Expo
-
 - title: Automate 2025
   link: https://www.automateshow.com/
   start_date: 2025-05-12
