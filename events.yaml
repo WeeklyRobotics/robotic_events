@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Automate 2025
-  link: https://www.automateshow.com/
-  start_date: 2025-05-12
-  end_date: 2025-05-15
-  city: Detroit, Michigan
-  country: United States of America
-  category: Expo
-
 - title: ICUAS (UAVs) 2025
   link: https://uasconferences.com/2025_icuas/
   start_date: 2025-05-14
