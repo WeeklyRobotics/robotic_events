@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ICUAS (UAVs) 2025
-  link: https://uasconferences.com/2025_icuas/
-  start_date: 2025-05-14
-  end_date: 2025-05-17
-  city: Charlotte, North Carolina
-  country: United States of America
-  category: Conference
-
 - title: Xponential 2025
   link: https://xponential.org/
   start_date: 2025-05-19
