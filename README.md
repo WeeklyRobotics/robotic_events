@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ICUAS (UAVs) 2025](https://uasconferences.com/2025_icuas/): May 14-May 17, 2025. Charlotte, North Carolina, United States of America
 * [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
 * [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
 * [Energy Drone & Robotics Summit 2025](https://www.edrcoalition.com/2025-energy-drone-robotics-summit): Jun 16-Jun 18, 2025. Houston, Texas, United States of America
