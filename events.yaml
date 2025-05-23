@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Xponential 2025
-  link: https://xponential.org/
-  start_date: 2025-05-19
-  end_date: 2025-05-22
-  city: Houston, Texas
-  country: United States of America
-  category: Expo
-
 - title: ICRA 2025
   link: https://2025.ieee-icra.org/
   start_date: 2025-05-19
