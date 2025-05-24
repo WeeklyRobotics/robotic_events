@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ICRA 2025](https://2025.ieee-icra.org/): May 19-May 23, 2025. Atlanta, Georgia, United States of America
 * [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
 * [Energy Drone & Robotics Summit 2025](https://www.edrcoalition.com/2025-energy-drone-robotics-summit): Jun 16-Jun 18, 2025. Houston, Texas, United States of America
 * [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
