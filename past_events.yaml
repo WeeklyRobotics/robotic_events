@@ -526,3 +526,19 @@
   country: United States of America
   category: Conference
 
+- title: Eurobot Open 2025
+  link: https://www.eurobot.org
+  start_date: 2025-05-28
+  end_date: 2025-05-31
+  city: La Roche-sur-Yon
+  country: France
+  category: Competition
+
+- title: Open Hardware Summit 2025
+  link: https://2025.oshwa.org/
+  start_date: 2025-05-30
+  end_date: 2025-05-31
+  city: Edinburgh
+  country: Scotland
+  category: Conference
+
