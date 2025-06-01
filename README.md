@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Open Hardware Summit 2025](https://2025.oshwa.org/): May 30-May 31, 2025. Edinburgh, Scotland
 * [Energy Drone & Robotics Summit 2025](https://www.edrcoalition.com/2025-energy-drone-robotics-summit): Jun 16-Jun 18, 2025. Houston, Texas, United States of America
 * [Robotics: Science and Systems 2025](https://roboticsconference.org/2025/): Jun 21-Jun 25, 2025. Los Angeles, California, United States of America
 * [Open Source Summit 2025 North America](https://events.linuxfoundation.org/open-source-summit-north-america/): Jul 23-Jul 25, 2025. Denver, United States of America
@@ -60,7 +59,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [Eurobot Open 2025](https://www.eurobot.org): May 28-May 31, 2025. La Roche-sur-Yon, France
 * [RoboCup 2025](https://2025.robocup.org/): Jul 15-Jul 21, 2025. Salvador, Brazil
 
 ## Meetup
