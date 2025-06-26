@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: 'Robotics: Science and Systems 2025'
-  link: https://roboticsconference.org/2025/
-  start_date: 2025-06-21
-  end_date: 2025-06-25
-  city: Los Angeles, California
-  country: United States of America
-  category: Conference
-
 - title: Automatica 2025
   link: https://automatica-munich.com/en/
   start_date: 2025-06-24
