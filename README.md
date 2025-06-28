@@ -44,7 +44,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [Automatica 2025](https://automatica-munich.com/en/): Jun 24-Jun 27, 2025. Munich, Germany
 * [Commercial UAV Expo](https://www.expouav.com): Sep 02-Sep 04, 2025. Las Vegas, United States of America
 * [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
