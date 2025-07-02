@@ -41,6 +41,14 @@
   country: United States of America
   category: Expo
 
+- title: ROSCon Japan 2026
+  link: https://roscon.jp/
+  start_date: 2025-09-09
+  end_date: 2025-09-09
+  city: Nagoya
+  country: Japan
+  category: Conference
+
 - title: CppCon 2025 (robotics track)
   link: https://cppcon.org/robotics-track/
   start_date: 2025-09-13
@@ -97,6 +105,14 @@
   country: Republic of Singapore
   category: Conference
 
+- title: ROSCon FR & DE 2025
+  link: https://roscon.ros.org/de/2025/
+  start_date: 2025-11-17
+  end_date: 2025-11-20
+  city: Strasbourg
+  country: France
+  category: Conference
+
 - title: Embedded World 2026
   link: https://www.embedded-world.de/en
   start_date: 2026-03-10
@@ -112,3 +128,11 @@
   city: Amsterdam
   country: Netherlands
   category: Expo
+
+- title: ICRA 2026
+  link: https://2026.ieee-icra.org/
+  start_date: 2026-06-01
+  end_date: 2026-06-05
+  city: Vienna
+  country: Austria
+  category: Conference
