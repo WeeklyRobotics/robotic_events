@@ -34,12 +34,15 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 * [Open Source Summit 2025 North America](https://events.linuxfoundation.org/open-source-summit-north-america/): Jul 23-Jul 25, 2025. Denver, United States of America
 * [Open Source Summit 2025 Europe](https://events.linuxfoundation.org/open-source-summit-europe/): Aug 25-Aug 27, 2025. Amsterdam, Netherlands
+* [ROSCon Japan 2026](https://roscon.jp/): Sep 09-Sep 09, 2025. Nagoya, Japan
 * [CppCon 2025 (robotics track)](https://cppcon.org/robotics-track/): Sep 13-Sep 19, 2025. Aurora, Colorado, United States of America
 * [ROSCon UK 2025](https://roscon.org.uk): Sep 15-Sep 17, 2025. Edinburgh, United Kingdom
 * [Actuate 2025](https://actuate.foxglove.dev/): Sep 23-Sep 24, 2025. San Francisco, California, United States of America
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 * [ROSCon 2025](https://roscon.ros.org/2025/): Oct 27-Oct 29, 2025. Singapore, Republic of Singapore
+* [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
+* [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 
 ## Expo
 
