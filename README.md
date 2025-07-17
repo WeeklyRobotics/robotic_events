@@ -55,6 +55,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Workshop
 
 
+* [Automated Guided Vehicle (AGV) Session, ICCMA 2025](https://fbim.hs-regensburg.de/duennweber/AGV_CFP.pdf): Nov 24-Nov 26, 2025. Paris, France
 
 ## Competition
 
