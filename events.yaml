@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Automated Guided Vehicle (AGV) Session, ICCMA 2025
-  link: https://fbim.hs-regensburg.de/duennweber/AGV_CFP.pdf
-  start_date: 2025-11-24
-  end_date: 2025-11-26
-  city: Paris
-  country: France
-  category: Workshop
-
 - title: RoboCup 2025
   link: https://2025.robocup.org/
   start_date: 2025-07-15
@@ -120,6 +112,14 @@
   city: Strasbourg
   country: France
   category: Conference
+
+- title: Automated Guided Vehicle (AGV) Session, ICCMA 2025
+  link: https://iccma.org/Session1.html
+  start_date: 2025-11-24
+  end_date: 2025-11-26
+  city: Paris
+  country: France
+  category: Workshop
 
 - title: Embedded World 2026
   link: https://www.embedded-world.de/en
