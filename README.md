@@ -60,7 +60,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Competition
 
 
-* [RoboCup 2025](https://2025.robocup.org/): Jul 15-Jul 21, 2025. Salvador, Brazil
 
 ## Meetup
 
