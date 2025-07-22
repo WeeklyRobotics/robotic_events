@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: RoboCup 2025
-  link: https://2025.robocup.org/
-  start_date: 2025-07-15
-  end_date: 2025-07-21
-  city: Salvador
-  country: Brazil
-  category: Competition
-
 - title: Open Source Summit 2025 North America
   link: https://events.linuxfoundation.org/open-source-summit-north-america/
   start_date: 2025-07-23
