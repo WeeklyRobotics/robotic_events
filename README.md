@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Open Source Summit 2025 Europe](https://events.linuxfoundation.org/open-source-summit-europe/): Aug 25-Aug 27, 2025. Amsterdam, Netherlands
 * [ROSCon Japan 2026](https://roscon.jp/): Sep 09-Sep 09, 2025. Nagoya, Japan
 * [CppCon 2025 (robotics track)](https://cppcon.org/robotics-track/): Sep 13-Sep 19, 2025. Aurora, Colorado, United States of America
 * [ROSCon UK 2025](https://roscon.org.uk): Sep 15-Sep 17, 2025. Edinburgh, United Kingdom
