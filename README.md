@@ -39,6 +39,9 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 * [ROSCon 2025](https://roscon.ros.org/2025/): Oct 27-Oct 29, 2025. Singapore, Republic of Singapore
+* [ROSCon China 2025](https://roscon.cn/2025/): Oct 30-Oct 31, 2025. Shanghai, China
+* [ROSCon Spain 2025](https://roscon.org.es/ROSConES2025.html): Nov 04-Nov 05, 2025. Barcelona, Spain
+* [PX4 Developer Summit](https://events.linuxfoundation.org/px4-developer-summit/): Nov 10-Nov 11, 2025. Atlanta, Georgia, USA
 * [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 
