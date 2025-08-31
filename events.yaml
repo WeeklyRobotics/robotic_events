@@ -81,6 +81,30 @@
   country: Republic of Singapore
   category: Conference
 
+- title: ROSCon China 2025
+  link: https://roscon.cn/2025/
+  start_date: 2025-10-30
+  end_date: 2025-10-31
+  city: Shanghai
+  country: China
+  category: Conference
+
+- title: ROSCon Spain 2025
+  link: https://roscon.org.es/ROSConES2025.html
+  start_date: 2025-11-04
+  end_date: 2025-11-05
+  city: Barcelona
+  country: Spain
+  category: Conference
+
+- title: PX4 Developer Summit
+  link: https://events.linuxfoundation.org/px4-developer-summit/
+  start_date: 2025-11-10
+  end_date: 2025-11-11
+  city: Atlanta, Georgia
+  country: USA
+  category: Conference
+
 - title: ROSCon FR & DE 2025
   link: https://roscon.ros.org/de/2025/
   start_date: 2025-11-17
