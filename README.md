@@ -42,6 +42,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ROSCon China 2025](https://roscon.cn/2025/): Oct 30-Oct 31, 2025. Shanghai, China
 * [ROSCon Spain 2025](https://roscon.org.es/ROSConES2025.html): Nov 04-Nov 05, 2025. Barcelona, Spain
 * [PX4 Developer Summit](https://events.linuxfoundation.org/px4-developer-summit/): Nov 10-Nov 11, 2025. Atlanta, Georgia, USA
+* [Energy Drone/Robotics & Industrial AI Forum](https://www.edrcoalition.com/energy-drones-robotics-industrial-ai-forum): Nov 12, 2025. Houston, Texas, United States of America
 * [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 
@@ -52,6 +53,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
 * [Commercial UAV Forum](https://www.forumuav.com/): Apr 22-Apr 23, 2026. Amsterdam, Netherlands
+* [2026 Energy Drone & Robotics Summit](https://www.edrcoalition.com/2026-energy-drone-robotics-summit): Jun 22-Jun 24, 2026. Houston, Texas, United States of America
 
 ## Workshop
 
