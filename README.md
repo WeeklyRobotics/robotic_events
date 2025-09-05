@@ -66,3 +66,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Industrial AI Nexus Connect](https://iondistrict.com/event/industrial-ai-nexus-connect/): Sep 25, 2025. Houston, Texas, United States of America
