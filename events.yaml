@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Commercial UAV Expo
-  link: https://www.expouav.com
-  start_date: 2025-09-02
-  end_date: 2025-09-04
-  city: Las Vegas
-  country: United States of America
-  category: Expo
-
 - title: ROSCon Japan 2025
   link: https://roscon.jp/
   start_date: 2025-09-09
