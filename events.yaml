@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: ROSCon Japan 2025
-  link: https://roscon.jp/
-  start_date: 2025-09-09
-  end_date: 2025-09-09
-  city: Nagoya
-  country: Japan
-  category: Conference
-
 - title: CppCon 2025 (robotics track)
   link: https://cppcon.org/robotics-track/
   start_date: 2025-09-13
