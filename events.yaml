@@ -17,14 +17,6 @@
   country: United States of America
   category: Conference
 
-- title: ROSCon UK 2025
-  link: https://roscon.org.uk
-  start_date: 2025-09-15
-  end_date: 2025-09-17
-  city: Edinburgh
-  country: United Kingdom
-  category: Conference
-
 - title: Actuate 2025
   link: https://actuate.foxglove.dev/
   start_date: 2025-09-23
