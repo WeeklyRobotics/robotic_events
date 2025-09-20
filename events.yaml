@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: CppCon 2025 (robotics track)
-  link: https://cppcon.org/robotics-track/
-  start_date: 2025-09-13
-  end_date: 2025-09-19
-  city: Aurora, Colorado
-  country: United States of America
-  category: Conference
-
 - title: Actuate 2025
   link: https://actuate.foxglove.dev/
   start_date: 2025-09-23

@@ -607,6 +607,14 @@
   country: Japan
   category: Conference
 
+- title: CppCon 2025 (robotics track)
+  link: https://cppcon.org/robotics-track/
+  start_date: 2025-09-13
+  end_date: 2025-09-19
+  city: Aurora, Colorado
+  country: United States of America
+  category: Conference
+
 - title: ROSCon UK 2025
   link: https://roscon.org.uk
   start_date: 2025-09-15
