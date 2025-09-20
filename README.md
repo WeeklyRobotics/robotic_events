@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [CppCon 2025 (robotics track)](https://cppcon.org/robotics-track/): Sep 13-Sep 19, 2025. Aurora, Colorado, United States of America
 * [Actuate 2025](https://actuate.foxglove.dev/): Sep 23-Sep 24, 2025. San Francisco, California, United States of America
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
