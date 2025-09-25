@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Actuate 2025](https://actuate.foxglove.dev/): Sep 23-Sep 24, 2025. San Francisco, California, United States of America
 * [Conference on Robot Learning 2025](https://www.corl.org/home): Sep 27-Sep 30, 2025. Seoul, Korea
 * [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 * [ROSCon 2025](https://roscon.ros.org/2025/): Oct 27-Oct 29, 2025. Singapore, Republic of Singapore
