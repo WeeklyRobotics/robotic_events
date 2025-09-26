@@ -9,13 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Industrial AI Nexus Connect
-  link: https://iondistrict.com/event/industrial-ai-nexus-connect/
-  start_date: 2025-09-25
-  city: Houston, Texas
-  country: United States of America
-  category: Meetup
-
 - title: Conference on Robot Learning 2025
   link: https://www.corl.org/home
   start_date: 2025-09-27
