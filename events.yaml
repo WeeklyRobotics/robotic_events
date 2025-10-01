@@ -9,14 +9,6 @@
 #   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
 # !! Please keep this sorted by start_date !!
 
-- title: Conference on Robot Learning 2025
-  link: https://www.corl.org/home
-  start_date: 2025-09-27
-  end_date: 2025-09-30
-  city: Seoul
-  country: Korea
-  category: Conference
-
 - title: RoboBusiness 2025
   link: https://www.robobusiness.com/
   start_date: 2025-10-15
