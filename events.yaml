@@ -81,6 +81,22 @@
   country: France
   category: Workshop
 
+- title: European Robotics Week
+  link: https://eu-robotics.net/european-robotics-week/
+  start_date: 2025-12-03
+  end_date: 2025-12-04
+  city: Tallinn
+  country: Estonia
+  category: Expo
+  
+- title: FOSDEM 2026
+  link: https://eu-robotics.net/european-robotics-week/
+  start_date: 2026-01-31
+  end_date: 2026-02-01
+  city: Brussels
+  country: Belgium
+  category: Conference
+
 - title: Embedded World 2026
   link: https://www.embedded-world.de/en
   start_date: 2026-03-10
@@ -88,6 +104,14 @@
   city: Nuremberg
   country: Germany
   category: Expo
+
+- title: European Robotics Forum
+  link: https://erf2026.eu/
+  start_date: 2026-03-23
+  end_date: 2026-03-27
+  city: Stavanger
+  country: Norway
+  category: Conference
 
 - title: Commercial UAV Forum
   link: https://www.forumuav.com/
@@ -112,3 +136,19 @@
   city: Houston, Texas
   country: United States of America
   category: Expo
+
+- title: Robotics: Science and Systems
+  link: https://roboticsconference.org/
+  start_date: 2026-07-13
+  end_date: 2026-07-16
+  city: Sydney
+  country: Australia
+  category: Conference
+
+- title: Open Source Summit
+  link: https://events.linuxfoundation.org/open-source-summit-europe/
+  start_date: 2026-10-07
+  end_date: 2026-10-09
+  city: Prague
+  country: Czechia
+  category: Conference
