@@ -6,8 +6,8 @@
 #   deadline: YYYY-MM-DD # Optional
 #   city: event city
 #   country: event country
-#   category: Conference 
-#   
+#   category: Conference
+#
 #   Category options are Conference/Expo/Workshop/Competition/Meetup
 # !! Please keep this sorted by start_date !!
 ---
