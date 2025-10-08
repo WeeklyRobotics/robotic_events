@@ -121,6 +121,14 @@
   country: Netherlands
   category: Expo
 
+- title: Open Hardware Summit
+  link:   https://2026.oshwa.org/
+  start_date: 2026-05-22
+  end_date: 2026-05-23
+  city: Berlin
+  country: Berlin
+  category: Conference
+  
 - title: ICRA 2026
   link: https://2026.ieee-icra.org/
   start_date: 2026-06-01
