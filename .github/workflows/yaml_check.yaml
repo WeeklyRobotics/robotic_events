@@ -1,3 +1,4 @@
+---
 name: Validate YAML on PR
 
 on:
@@ -10,13 +11,11 @@ jobs:
   yamllint:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # so we can diff against base
+          fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -28,13 +27,10 @@ jobs:
           set -euo pipefail
           base="${{ github.event.pull_request.base.sha }}"
           head="${{ github.sha }}"
-          # Get only changed YAML files in the PR
           files=$(git diff --name-only "$base" "$head" -- '*.yml' '*.yaml')
           if [ -z "$files" ]; then
             echo "No YAML changes in this PR."
             exit 0
           fi
-          echo "Checking:"
           echo "$files"
-          # -f parsable gives GitHub-friendly output (file:line:col: message)
           yamllint -f parsable $files
