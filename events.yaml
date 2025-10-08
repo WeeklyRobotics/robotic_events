@@ -6,8 +6,11 @@
 #   deadline: YYYY-MM-DD # Optional
 #   city: event city
 #   country: event country
-#   category: Conference # Options: Conference, Expo, Workshop, Competition, Meetup
+#   category: Conference 
+#   
+#   Category options are Conference/Expo/Workshop/Competition/Meetup
 # !! Please keep this sorted by start_date !!
+---
 
 - title: RoboBusiness 2025
   link: https://www.robobusiness.com/
@@ -122,13 +125,13 @@
   category: Expo
 
 - title: Open Hardware Summit
-  link:   https://2026.oshwa.org/
+  link: https://2026.oshwa.org/
   start_date: 2026-05-22
   end_date: 2026-05-23
   city: Berlin
   country: Berlin
   category: Conference
-  
+
 - title: ICRA 2026
   link: https://2026.ieee-icra.org/
   start_date: 2026-06-01
