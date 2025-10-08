@@ -88,7 +88,7 @@
   city: Tallinn
   country: Estonia
   category: Expo
-  
+
 - title: FOSDEM 2026
   link: https://fosdem.org/2026/
   start_date: 2026-01-31
@@ -137,7 +137,7 @@
   country: United States of America
   category: Expo
 
-- title: Robotics: Science and Systems
+- title: "Robotics: Science and Systems"
   link: https://roboticsconference.org/
   start_date: 2026-07-13
   end_date: 2026-07-16
