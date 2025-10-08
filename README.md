@@ -39,12 +39,17 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [PX4 Developer Summit](https://events.linuxfoundation.org/px4-developer-summit/): Nov 10-Nov 11, 2025. Atlanta, Georgia, USA
 * [Energy Drone/Robotics & Industrial AI Forum](https://www.edrcoalition.com/energy-drones-robotics-industrial-ai-forum): Nov 12, 2025. Houston, Texas, United States of America
 * [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
+* [FOSDEM 2026](https://fosdem.org/2026/): Jan 31-Feb 01, 2026. Brussels, Belgium
+* [European Robotics Forum](https://erf2026.eu/): Mar 23-Mar 27, 2026. Stavanger, Norway
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
+* [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
+* [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
 
 ## Expo
 
 
 * [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
+* [European Robotics Week](https://eu-robotics.net/european-robotics-week/): Dec 03-Dec 04, 2025. Tallinn, Estonia
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
 * [Commercial UAV Forum](https://www.forumuav.com/): Apr 22-Apr 23, 2026. Amsterdam, Netherlands
 * [2026 Energy Drone & Robotics Summit](https://www.edrcoalition.com/2026-energy-drone-robotics-summit): Jun 22-Jun 24, 2026. Houston, Texas, United States of America
