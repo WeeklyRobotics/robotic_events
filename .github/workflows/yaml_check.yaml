@@ -1,0 +1,36 @@
+---
+name: Validate YAML on PR
+
+on:
+  pull_request:
+    paths:
+      - "**/*.yml"
+      - "**/*.yaml"
+
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install yamllint
+        run: pip install --upgrade yamllint
+
+      - name: Lint changed YAML files
+        run: |
+          set -euo pipefail
+          base="${{ github.event.pull_request.base.sha }}"
+          head="${{ github.sha }}"
+          files=$(git diff --name-only "$base" "$head" -- '*.yml' '*.yaml')
+          if [ -z "$files" ]; then
+            echo "No YAML changes in this PR."
+            exit 0
+          fi
+          echo "$files"
+          yamllint -f parsable $files
