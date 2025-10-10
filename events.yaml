@@ -1,16 +1,3 @@
-# Template
-# - title: Your event name
-#   link: your event link
-#   start_date: YYYY-MM-DD
-#   end_date: YYYY-MM-DD # Optional
-#   deadline: YYYY-MM-DD # Optional
-#   city: event city
-#   country: event country
-#   category: Conference
-#
-#   Category options are Conference/Expo/Workshop/Competition/Meetup
-# !! Please keep this sorted by start_date !!
----
 
 - title: RoboBusiness 2025
   link: https://www.robobusiness.com/
