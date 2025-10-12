@@ -41,7 +41,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
 * [FOSDEM 2026](https://fosdem.org/2026/): Jan 31-Feb 01, 2026. Brussels, Belgium
 * [European Robotics Forum](https://erf2026.eu/): Mar 23-Mar 27, 2026. Stavanger, Norway
-* [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Berlin
+* [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Germany
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
 * [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
