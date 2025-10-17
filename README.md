@@ -49,7 +49,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [RoboBusiness 2025](https://www.robobusiness.com/): Oct 15-Oct 16, 2025. Santa Clara, United States of America
 * [European Robotics Week](https://eu-robotics.net/european-robotics-week/): Dec 03-Dec 04, 2025. Tallinn, Estonia
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
 * [Commercial UAV Forum](https://www.forumuav.com/): Apr 22-Apr 23, 2026. Amsterdam, Netherlands
