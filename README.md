@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [IROS 2025](http://www.iros25.org/): Oct 18-Oct 25, 2025. Hangzhou, China
 * [ROSCon 2025](https://roscon.ros.org/2025/): Oct 27-Oct 29, 2025. Singapore, Republic of Singapore
 * [ROSCon China 2025](https://roscon.cn/2025/): Oct 30-Oct 31, 2025. Shanghai, China
 * [ROSCon Spain 2025](https://roscon.org.es/ROSConES2025.html): Nov 04-Nov 05, 2025. Barcelona, Spain
