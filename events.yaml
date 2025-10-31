@@ -54,6 +54,14 @@
   country: Estonia
   category: Expo
 
+- title: ROSCon India 2025
+  link: https://www.rosconindia.in/
+  start_date: 2025-12-18
+  end_date: 2025-12-20
+  city: Pune
+  country: India
+  category: Conference
+
 - title: FOSDEM 2026
   link: https://fosdem.org/2026/
   start_date: 2026-01-31
