@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ROSCon China 2025](https://roscon.cn/2025/): Oct 30-Oct 31, 2025. Shanghai, China
 * [ROSCon Spain 2025](https://roscon.org.es/ROSConES2025.html): Nov 04-Nov 05, 2025. Barcelona, Spain
 * [PX4 Developer Summit](https://events.linuxfoundation.org/px4-developer-summit/): Nov 10-Nov 11, 2025. Atlanta, Georgia, USA
 * [Energy Drone/Robotics & Industrial AI Forum](https://www.edrcoalition.com/energy-drones-robotics-industrial-ai-forum): Nov 12, 2025. Houston, Texas, United States of America
