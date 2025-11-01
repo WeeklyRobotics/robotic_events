@@ -670,3 +670,11 @@
   country: Republic of Singapore
   category: Conference
 
+- title: ROSCon China 2025
+  link: https://roscon.cn/2025/
+  start_date: 2025-10-30
+  end_date: 2025-10-31
+  city: Shanghai
+  country: China
+  category: Conference
+
