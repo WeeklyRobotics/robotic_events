@@ -1,3 +1,4 @@
+---
 - title: ROSCon Spain 2025
   link: https://roscon.org.es/ROSConES2025.html
   start_date: 2025-11-04
@@ -53,7 +54,7 @@
   city: Tokyo
   country: JP
   category: Expo
-  
+
 - title: ROSCon India 2025
   link: https://www.rosconindia.in/
   start_date: 2025-12-18
