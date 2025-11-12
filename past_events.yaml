@@ -686,3 +686,11 @@
   country: Spain
   category: Conference
 
+- title: PX4 Developer Summit
+  link: https://events.linuxfoundation.org/px4-developer-summit/
+  start_date: 2025-11-10
+  end_date: 2025-11-11
+  city: Atlanta, Georgia
+  country: USA
+  category: Conference
+
