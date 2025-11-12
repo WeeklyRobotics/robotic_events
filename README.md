@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [PX4 Developer Summit](https://events.linuxfoundation.org/px4-developer-summit/): Nov 10-Nov 11, 2025. Atlanta, Georgia, USA
 * [Energy Drone/Robotics & Industrial AI Forum](https://www.edrcoalition.com/energy-drones-robotics-industrial-ai-forum): Nov 12, 2025. Houston, Texas, United States of America
 * [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
 * [ROSCon India 2025](https://www.rosconindia.in/): Dec 18-Dec 20, 2025. Pune, India
