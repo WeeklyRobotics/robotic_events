@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ROSCon FR & DE 2025](https://roscon.ros.org/de/2025/): Nov 17-Nov 20, 2025. Strasbourg, France
 * [ROSCon India 2025](https://www.rosconindia.in/): Dec 18-Dec 20, 2025. Pune, India
 * [FOSDEM 2026](https://fosdem.org/2026/): Jan 31-Feb 01, 2026. Brussels, Belgium
 * [European Robotics Forum](https://erf2026.eu/): Mar 23-Mar 27, 2026. Stavanger, Norway
