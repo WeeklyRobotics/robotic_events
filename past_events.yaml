@@ -709,3 +709,12 @@
   country: France
   category: Conference
 
+- title: Automated Guided Vehicle (AGV) Session, ICCMA 2025
+  link: https://iccma.org/Session1.html
+  start_date: 2025-11-24
+  end_date: 2025-11-26
+  deadline: 2025-08-20
+  city: Paris
+  country: France
+  category: Workshop
+
