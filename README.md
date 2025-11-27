@@ -52,7 +52,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Workshop
 
 
-* [Automated Guided Vehicle (AGV) Session, ICCMA 2025](https://iccma.org/Session1.html): Nov 24-Nov 26, 2025. Paris, France
 
 ## Competition
 
