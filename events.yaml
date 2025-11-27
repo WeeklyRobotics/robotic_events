@@ -22,6 +22,14 @@
   country: India
   category: Conference
 
+- title: RoboDEX
+  link: https://www.fiweek.jp/hub/en-gb/about/robodex.html
+  start_date: 2026-01-21
+  end_date: 2026-01-23
+  city: Tokyo
+  country: Japan
+  category: Expo 
+
 - title: FOSDEM 2026
   link: https://fosdem.org/2026/
   start_date: 2026-01-31
