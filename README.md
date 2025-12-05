@@ -43,7 +43,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [European Robotics Week](https://eu-robotics.net/european-robotics-week/): Dec 03-Dec 04, 2025. Tallinn, Estonia
 * [iREX 2025 — International Robot Exhibition](https://ifr.org/event/irex-2025): Dec 03-Dec 06, 2025. Tokyo, JP
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
 * [Commercial UAV Forum](https://www.forumuav.com/): Apr 22-Apr 23, 2026. Amsterdam, Netherlands
