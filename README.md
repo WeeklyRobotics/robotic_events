@@ -33,6 +33,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [European Robotics Forum](https://erf2026.eu/): Mar 23-Mar 27, 2026. Stavanger, Norway
+* [Robotics & Physical AI day (Mashup)](https://luma.com/z7zrd853): Apr 15-Apr 15, 2026. Malmö, Sweden
 * [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Germany
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
@@ -42,7 +43,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [Embedded World 2026](https://www.embedded-world.de/en): Mar 10-Mar 12, 2026. Nuremberg, Germany
-* [Commercial UAV Forum](https://www.forumuav.com/): Apr 22-Apr 23, 2026. Amsterdam, Netherlands
 * [2026 Energy Drone & Robotics Summit](https://www.edrcoalition.com/2026-energy-drone-robotics-summit): Jun 22-Jun 24, 2026. Houston, Texas, United States of America
 
 ## Workshop
@@ -56,3 +56,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Paris HW Meetup](https://luma.com/oq94zfvf): Feb 17-Feb 17, 2026. Paris, France
