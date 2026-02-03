@@ -1,3 +1,11 @@
+- title: Paris HW Meetup
+  link: https://luma.com/oq94zfvf
+  start_date: 2026-02-17
+  end_date: 2026-02-17
+  city: Paris
+  country: France
+  category: Meetup
+
 - title: Embedded World 2026
   link: https://www.embedded-world.de/en
   start_date: 2026-03-10
@@ -14,13 +22,13 @@
   country: Norway
   category: Conference
 
-- title: Commercial UAV Forum
-  link: https://www.forumuav.com/
-  start_date: 2026-04-22
-  end_date: 2026-04-23
-  city: Amsterdam
-  country: Netherlands
-  category: Expo
+- title: Robotics & Physical AI day (Mashup)
+  link: https://luma.com/z7zrd853
+  start_date: 2026-04-15
+  end_date: 2026-04-15
+  city: Malmö
+  country: Sweden
+  category: Conference
 
 - title: Open Hardware Summit
   link: https://2026.oshwa.org/
