@@ -56,4 +56,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Paris HW Meetup](https://luma.com/oq94zfvf): Feb 17-Feb 17, 2026. Paris, France
