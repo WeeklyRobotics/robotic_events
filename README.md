@@ -56,3 +56,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Bots, Bevs and Devs](https://luma.com/ja38kyfj): Mar 11, 2026. San Francisco, United States of America
