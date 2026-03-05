@@ -57,3 +57,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [Bots, Bevs and Devs](https://luma.com/ja38kyfj): Mar 11, 2026. San Francisco, United States of America
+* [Cracow Robotics & AI Meetup](https://www.meetup.com/cracow-robotics-ai-club/events/313630070/): Mar 30, 2026. Krakow, Poland
