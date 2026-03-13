@@ -758,6 +758,14 @@
   country: France
   category: Meetup
 
+- title: Embedded World 2026
+  link: https://www.embedded-world.de/en
+  start_date: 2026-03-10
+  end_date: 2026-03-12
+  city: Nuremberg
+  country: Germany
+  category: Expo
+
 - title: Bots, Bevs and Devs
   link: https://luma.com/ja38kyfj
   start_date: 2026-03-11
