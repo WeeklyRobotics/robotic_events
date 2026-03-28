@@ -773,3 +773,11 @@
   country: United States of America
   category: Meetup
 
+- title: European Robotics Forum
+  link: https://erf2026.eu/
+  start_date: 2026-03-23
+  end_date: 2026-03-27
+  city: Stavanger
+  country: Norway
+  category: Conference
+
