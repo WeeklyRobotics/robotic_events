@@ -45,6 +45,14 @@
   country: Australia
   category: Conference
 
+- title: Actuate 26
+  link: https://actuate.foxglove.dev/
+  start_date: 2026-08-18
+  end_date: 2026-08-19
+  city: San Francisco, California
+  country: United States of America
+  category: Conference
+
 - title: Open Source Summit
   link: https://events.linuxfoundation.org/open-source-summit-europe/
   start_date: 2026-10-07
