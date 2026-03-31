@@ -55,4 +55,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Cracow Robotics & AI Meetup](https://www.meetup.com/cracow-robotics-ai-club/events/313630070/): Mar 30, 2026. Krakow, Poland
