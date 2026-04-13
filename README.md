@@ -33,20 +33,27 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [Robotics & Physical AI day (Mashup)](https://luma.com/z7zrd853): Apr 15-Apr 15, 2026. Malmö, Sweden
+* [NextGen Robotics LIVE](https://www.odenserobotics.dk/nextgen-robotics-live/): May 06, 2026. Odense, Denmark
 * [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Germany
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
 * [Actuate 26](https://actuate.foxglove.dev/): Aug 18-Aug 19, 2026. San Francisco, California, United States of America
 * [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
+* [ROSCon Spain 2026](https://roscon.org.es/roscon2026/ROSConES2026.html): Oct 27-Oct 28, 2026. Valencia, Spain
+* [ROSCon BE 2026](https://roscon.ros.org/be/2026/): Nov 25-Nov 26, 2026. Nivelles, Belgium
+* [Humanoids 2026](https://2026.ieee-humanoids.org/): Dec 06-Dec 09, 2026. Santa Clara, California, United States of America
 
 ## Expo
 
 
+* [Robotics Summit & Expo 2026](https://www.roboticssummit.com/): May 27-May 28, 2026. Boston, Massachusetts, United States of America
 * [2026 Energy Drone & Robotics Summit](https://www.edrcoalition.com/2026-energy-drone-robotics-summit): Jun 22-Jun 24, 2026. Houston, Texas, United States of America
+* [Commercial UAV Expo](https://www.expouav.com/): Sep 01-Sep 03, 2026. Las Vegas, Nevada, United States of America
 
 ## Workshop
 
 
+* [Hands on Workshop: Scaling Vision-Language-Action (VLA) Models with Ray](https://luma.com/pm6qcjc4): Apr 30, 2026. Pittsburgh, United States of America
 
 ## Competition
 
@@ -55,3 +62,9 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Actuate Global — San Francisco: Industry Night](https://luma.com/2xbmo7a9): Apr 23, 2026. San Francisco, United States of America
+* [Actuate Global — London: Community Meetup](https://luma.com/event/evt-9z6SgMhzFxS3CNR): Apr 30, 2026. London, United Kingdom
+* [Actuate Global — Paris: Community Meetup](https://luma.com/event/evt-qb7xSpbfUvG16PT): May 04, 2026. Paris, France
+* [Actuate Global — Zurich: Field Session](https://luma.com/event/evt-kgSiIwU20HSwBG4): May 06, 2026. Zurich, Switzerland
+* [Actuate Global — Munich: Community Meetup](https://luma.com/event/evt-9gohwQTr1jvRdgm): May 07, 2026. Munich, Germany
+* [Actuate Global — Boston: Community Meetup](https://luma.com/event/evt-sss1dDJ8J903dyI): May 27, 2026. Boston, United States of America
