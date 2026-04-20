@@ -61,6 +61,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Cracow Robotics & AI Meetup](https://luma.com/9kzvfh2p): May 18, 2026. Krakow, Poland
 * [Actuate Global — San Francisco: Industry Night](https://luma.com/2xbmo7a9): Apr 23, 2026. San Francisco, United States of America
 * [Actuate Global — London: Community Meetup](https://luma.com/event/evt-9z6SgMhzFxS3CNR): Apr 30, 2026. London, United Kingdom
 * [Actuate Global — Paris: Community Meetup](https://luma.com/event/evt-qb7xSpbfUvG16PT): May 04, 2026. Paris, France
