@@ -1,10 +1,3 @@
-- title: 'Cracow Robotics & AI Meetup'
-  link: https://luma.com/9kzvfh2p
-  start_date: 2026-05-18
-  city: Krakow
-  country: Poland
-  category: Meetup
-
 - title: 'Actuate Global — San Francisco: Industry Night'
   link: https://luma.com/2xbmo7a9
   start_date: 2026-04-23
@@ -52,6 +45,13 @@
   start_date: 2026-05-07
   city: Munich
   country: Germany
+  category: Meetup
+
+- title: Cracow Robotics & AI Meetup
+  link: https://luma.com/9kzvfh2p
+  start_date: 2026-05-18
+  city: Krakow
+  country: Poland
   category: Meetup
 
 - title: Open Hardware Summit
