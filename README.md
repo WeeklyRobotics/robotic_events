@@ -52,7 +52,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Workshop
 
 
-* [Hands on Workshop: Scaling Vision-Language-Action (VLA) Models with Ray](https://luma.com/pm6qcjc4): Apr 30, 2026. Pittsburgh, United States of America
 
 ## Competition
 
@@ -61,8 +60,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Actuate Global — London: Community Meetup](https://luma.com/event/evt-9z6SgMhzFxS3CNR): Apr 30, 2026. London, United Kingdom
-* [BARA Series: April Meeting and Pitches](https://luma.com/er8w9a8w): Apr 30, 2026. Mountain View, California, United States of America
 * [Actuate Global — Paris: Community Meetup](https://luma.com/event/evt-qb7xSpbfUvG16PT): May 04, 2026. Paris, France
 * [Actuate Global — Zurich: Field Session](https://luma.com/event/evt-kgSiIwU20HSwBG4): May 06, 2026. Zurich, Switzerland
 * [Actuate Global — Munich: Community Meetup](https://luma.com/event/evt-9gohwQTr1jvRdgm): May 07, 2026. Munich, Germany
