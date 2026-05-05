@@ -60,7 +60,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Actuate Global — Paris: Community Meetup](https://luma.com/event/evt-qb7xSpbfUvG16PT): May 04, 2026. Paris, France
 * [Actuate Global — Zurich: Field Session](https://luma.com/event/evt-kgSiIwU20HSwBG4): May 06, 2026. Zurich, Switzerland
 * [Actuate Global — Munich: Community Meetup](https://luma.com/event/evt-9gohwQTr1jvRdgm): May 07, 2026. Munich, Germany
 * [Cracow Robotics & AI Meetup](https://luma.com/9kzvfh2p): May 18, 2026. Krakow, Poland
