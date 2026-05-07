@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [NextGen Robotics LIVE](https://www.odenserobotics.dk/nextgen-robotics-live/): May 06, 2026. Odense, Denmark
 * [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Germany
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
@@ -60,7 +59,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Actuate Global — Zurich: Field Session](https://luma.com/event/evt-kgSiIwU20HSwBG4): May 06, 2026. Zurich, Switzerland
 * [Actuate Global — Munich: Community Meetup](https://luma.com/event/evt-9gohwQTr1jvRdgm): May 07, 2026. Munich, Germany
 * [Cracow Robotics & AI Meetup](https://luma.com/9kzvfh2p): May 18, 2026. Krakow, Poland
 * [Actuate Global — Boston: Community Meetup](https://luma.com/event/evt-sss1dDJ8J903dyI): May 27, 2026. Boston, United States of America
