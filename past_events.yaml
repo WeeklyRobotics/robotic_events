@@ -831,3 +831,17 @@
   country: France
   category: Meetup
 
+- title: 'Actuate Global — Zurich: Field Session'
+  link: https://luma.com/event/evt-kgSiIwU20HSwBG4
+  start_date: 2026-05-06
+  city: Zurich
+  country: Switzerland
+  category: Meetup
+
+- title: NextGen Robotics LIVE
+  link: https://www.odenserobotics.dk/nextgen-robotics-live/
+  start_date: 2026-05-06
+  city: Odense
+  country: Denmark
+  category: Conference
+
