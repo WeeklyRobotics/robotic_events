@@ -59,6 +59,5 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Actuate Global — Munich: Community Meetup](https://luma.com/event/evt-9gohwQTr1jvRdgm): May 07, 2026. Munich, Germany
 * [Cracow Robotics & AI Meetup](https://luma.com/9kzvfh2p): May 18, 2026. Krakow, Poland
 * [Actuate Global — Boston: Community Meetup](https://luma.com/event/evt-sss1dDJ8J903dyI): May 27, 2026. Boston, United States of America
