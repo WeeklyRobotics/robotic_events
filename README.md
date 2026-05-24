@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Open Hardware Summit](https://2026.oshwa.org/): May 22-May 23, 2026. Berlin, Germany
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
 * [Actuate 26](https://actuate.foxglove.dev/): Aug 18-Aug 19, 2026. San Francisco, California, United States of America
