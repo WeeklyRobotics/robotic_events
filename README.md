@@ -35,6 +35,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 * [ICRA 2026](https://2026.ieee-icra.org/): Jun 01-Jun 05, 2026. Vienna, Austria
 * [Robotics: Science and Systems](https://roboticsconference.org/): Jul 13-Jul 16, 2026. Sydney, Australia
 * [Actuate 26](https://actuate.foxglove.dev/): Aug 18-Aug 19, 2026. San Francisco, California, United States of America
+* [Autonomy](https://www.autonomyconf.com/): Sep 14, 2026. Malmö, Sweden
 * [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
 * [ROSCon Spain 2026](https://roscon.org.es/roscon2026/ROSConES2026.html): Oct 27-Oct 28, 2026. Valencia, Spain
 * [ROSCon BE 2026](https://roscon.ros.org/be/2026/): Nov 25-Nov 26, 2026. Nivelles, Belgium
@@ -59,3 +60,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [Actuate Global — Boston: Community Meetup](https://luma.com/event/evt-sss1dDJ8J903dyI): May 27, 2026. Boston, United States of America
+* [ROS Meetup @ ICRA 2026](https://luma.com/xayz5tru): Jun 02, 2026. Vienna, Austria
