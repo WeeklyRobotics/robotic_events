@@ -59,5 +59,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Actuate Global — Boston: Community Meetup](https://luma.com/event/evt-sss1dDJ8J903dyI): May 27, 2026. Boston, United States of America
 * [ROS Meetup @ ICRA 2026](https://luma.com/xayz5tru): Jun 02, 2026. Vienna, Austria
