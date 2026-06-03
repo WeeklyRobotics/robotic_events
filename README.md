@@ -58,4 +58,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [ROS Meetup @ ICRA 2026](https://luma.com/xayz5tru): Jun 02, 2026. Vienna, Austria
