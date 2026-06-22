@@ -57,3 +57,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
+* [Cracow Robotics & AI Meetup](https://luma.com/5mk0ja2a): Jun 29, 2026. Krakow, Poland
