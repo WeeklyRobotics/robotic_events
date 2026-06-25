@@ -43,7 +43,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [2026 Energy Drone & Robotics Summit](https://www.edrcoalition.com/2026-energy-drone-robotics-summit): Jun 22-Jun 24, 2026. Houston, Texas, United States of America
 * [Commercial UAV Expo](https://www.expouav.com/): Sep 01-Sep 03, 2026. Las Vegas, Nevada, United States of America
 
 ## Workshop
