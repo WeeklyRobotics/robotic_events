@@ -57,3 +57,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 
 * [Cracow Robotics & AI Meetup](https://luma.com/5mk0ja2a): Jun 29, 2026. Krakow, Poland
+* [Physical AI Happy Hour: Zürich](https://luma.com/qa79tj3g): Jul 16, 2026. Zurich, Switzerland
