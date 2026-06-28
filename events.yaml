@@ -13,6 +13,13 @@
   country: Australia
   category: Conference
 
+- title: 'Physical AI Happy Hour: Zürich'
+  link: https://luma.com/qa79tj3g
+  start_date: 2026-07-16
+  city: Zurich
+  country: Switzerland
+  category: Meetup
+
 - title: Actuate 26
   link: https://actuate.foxglove.dev/
   start_date: 2026-08-18
