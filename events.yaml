@@ -21,6 +21,14 @@
   country: Sweden
   category: Conference
 
+- title: ROSCon Global
+  link: https://roscon.ros.org/2026/
+  start_date: 2026-09-22
+  end_date: 2026-09-24
+  city: Toronto
+  country: Canada
+  category: Conference
+
 - title: Open Source Summit
   link: https://events.linuxfoundation.org/open-source-summit-europe/
   start_date: 2026-10-07
