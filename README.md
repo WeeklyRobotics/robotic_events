@@ -34,6 +34,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 
 * [Actuate 26](https://actuate.foxglove.dev/): Aug 18-Aug 19, 2026. San Francisco, California, United States of America
 * [Autonomy](https://www.autonomyconf.com/): Sep 14, 2026. Malmö, Sweden
+* [ROSCon Global](https://roscon.ros.org/2026/): Sep 22-Sep 24, 2026. Toronto, Canada
 * [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
 * [ROSCon UK 2026](https://roscon.org.uk/2026/): Oct 21-Oct 23, 2026. Edinburgh, United Kingdom
 * [ROSCon Spain 2026](https://roscon.org.es/roscon2026/ROSConES2026.html): Oct 27-Oct 28, 2026. Valencia, Spain
