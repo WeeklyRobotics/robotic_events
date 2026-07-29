@@ -29,6 +29,13 @@
   country: Canada
   category: Conference
 
+- title: FUSE Toulouse 2026
+  link: https://fuse.pointonenav.com/toulouse
+  start_date: 2026-10-06
+  city: Toulouse
+  country: France
+  category: Conference
+
 - title: Open Source Summit
   link: https://events.linuxfoundation.org/open-source-summit-europe/
   start_date: 2026-10-07
@@ -51,6 +58,13 @@
   end_date: 2026-10-28
   city: Valencia
   country: Spain
+  category: Conference
+
+- title: FUSE San Francisco 2026
+  link: https://fuse.pointonenav.com/sf
+  start_date: 2026-11-19
+  city: San Francisco, California
+  country: United States of America
   category: Conference
 
 - title: ROSCon BE 2026
