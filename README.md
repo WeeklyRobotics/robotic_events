@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [Actuate 26](https://actuate.foxglove.dev/): Aug 18-Aug 19, 2026. San Francisco, California, United States of America
 * [Autonomy](https://www.autonomyconf.com/): Sep 14, 2026. Malmö, Sweden
 * [ROSCon Global](https://roscon.ros.org/2026/): Sep 22-Sep 24, 2026. Toronto, Canada
 * [FUSE Toulouse 2026](https://fuse.pointonenav.com/toulouse): Oct 06, 2026. Toulouse, France
