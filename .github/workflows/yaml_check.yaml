@@ -1,11 +1,22 @@
 ---
-name: Validate YAML on PR
+name: Validate YAML
 
 on:
   pull_request:
     paths:
       - "**/*.yml"
       - "**/*.yaml"
+  push:
+    paths:
+      - "**/*.yml"
+      - "**/*.yaml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   yamllint:
@@ -23,14 +34,38 @@ jobs:
         run: pip install --upgrade yamllint
 
       - name: Lint changed YAML files
+        shell: bash
+        env:
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          PUSH_BASE: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
         run: |
           set -euo pipefail
-          base="${{ github.event.pull_request.base.sha }}"
-          head="${{ github.sha }}"
-          files=$(git diff --name-only "$base" "$head" -- '*.yml' '*.yaml')
-          if [ -z "$files" ]; then
-            echo "No YAML changes in this PR."
+
+          base="${PR_BASE:-${PUSH_BASE:-}}"
+          list="$(mktemp)"
+
+          # A new branch, a force push or pruned history leaves a base SHA
+          # that is not in the clone. Lint every YAML file in that case.
+          if [ -n "$base" ] \
+            && git cat-file -e "${base}^{commit}" 2>/dev/null; then
+            echo "Comparing ${base}..${HEAD_SHA}"
+            git diff -z --name-only --diff-filter=ACMR \
+              "$base" "$HEAD_SHA" -- '*.yml' '*.yaml' >"$list"
+          else
+            echo "Base commit unavailable. Linting all tracked YAML files."
+            git ls-files -z -- '*.yml' '*.yaml' >"$list"
+          fi
+
+          files=()
+          while IFS= read -r -d '' file; do
+            files+=("$file")
+          done <"$list"
+
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "No YAML files to lint."
             exit 0
           fi
-          echo "$files"
-          yamllint -f parsable $files
+
+          printf '%s\n' "${files[@]}"
+          yamllint -f github -- "${files[@]}"
