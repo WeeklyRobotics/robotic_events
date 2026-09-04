@@ -45,7 +45,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Expo
 
 
-* [Commercial UAV Expo](https://www.expouav.com/): Sep 01-Sep 03, 2026. Las Vegas, Nevada, United States of America
 
 ## Workshop
 
