@@ -55,4 +55,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Gravis Robotics x Foxglove: Zurich Robotics Night](https://luma.com/actuate-nemd): Sep 29, 2026. Zürich, Switzerland
