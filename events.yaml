@@ -13,6 +13,12 @@
   country: Czechia
   category: Conference
 
+- title: Compose your robotics data platform
+  link: https://luma.com/compose-robotics-platform
+  start_date: 2026-10-14
+  city: Online
+  category: Workshop
+
 - title: ROSCon UK 2026
   link: https://roscon.org.uk/2026/
   start_date: 2026-10-21
@@ -27,6 +33,14 @@
   end_date: 2026-10-28
   city: Valencia
   country: Spain
+  category: Conference
+
+- title: Humanoid Europe 2026
+  link: https://humanoideurope2026.com/
+  start_date: 2026-11-05
+  end_date: 2026-11-06
+  city: Munich
+  country: Germany
   category: Conference
 
 - title: FUSE San Francisco 2026
