@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [FUSE Toulouse 2026](https://fuse.pointonenav.com/toulouse): Oct 06, 2026. Toulouse, France
 * [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-europe/): Oct 07-Oct 09, 2026. Prague, Czechia
 * [ROSCon UK 2026](https://roscon.org.uk/2026/): Oct 21-Oct 23, 2026. Edinburgh, United Kingdom
 * [ROSCon Spain 2026](https://roscon.org.es/roscon2026/ROSConES2026.html): Oct 27-Oct 28, 2026. Valencia, Spain
