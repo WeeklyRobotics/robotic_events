@@ -55,5 +55,4 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [SF Hardware & Robotics Showcase | #SFTechWeek](https://partiful.com/e/nb5OgG4Muhx5ENLSv0iR): Oct 07, 2026. San Francisco, California, United States of America
 * [Bots & Brews Houston](https://luma.com/y9imgyhb): Oct 22, 2026. Houston, Texas, United States of America
