@@ -46,6 +46,7 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Workshop
 
 
+* [Robot Hackathon: Harnessing Physical AI & Data](https://lu.ma/ta40197s?utm_source=weekly_robotics&utm_medium=newsletter&utm_campaign=event_promo): Oct 29-Oct 30, 2026. San Francisco, California, United States of America
 
 ## Competition
 
