@@ -1,0 +1,6 @@
+extends: default
+
+rules:
+  line-length:
+    # A tracking URL is one long word. Allow it on a "link:" line.
+    allow-non-breakable-inline-mappings: true

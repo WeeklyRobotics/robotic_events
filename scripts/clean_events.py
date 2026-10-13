@@ -17,8 +17,10 @@ past_events_file = "../past_events.yaml"
 events_path = os.path.join(current_directory, events_file)
 past_events_path = os.path.join(current_directory, past_events_file)
 
-# Load YAML file with ruamel.yaml
+# Load YAML file with ruamel.yaml. Keep long URLs on one line so the
+# daily rewrite does not fold them and leave a trailing space.
 yaml = YAML()
+yaml.width = 4096
 with open(events_path, 'r') as file:
     events = yaml.load(file)
 
