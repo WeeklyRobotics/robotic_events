@@ -45,8 +45,7 @@
   category: Conference
 
 - title: ROS Meetup Barcelona (in Spanish)
-  link: 
-    https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a
+  link: https://www.eventbrite.com/e/entradas-ros-meetup-barcelona-739724173917?a
   start_date: 2023-11-24
   city: Barcelona
   country: Spain
@@ -104,8 +103,7 @@
   category: Meetup
 
 - title: ROS Meetup Lagos 2024
-  link: 
-    https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
+  link: https://docs.google.com/forms/d/e/1FAIpQLSdWL1mek_lxOX1RpLd8vSPlqLNwzUhnhya7uimQ0NABNz8VNA/viewform
   start_date: 2024-02-03
   city: Lagos
   country: Nigeria
@@ -120,8 +118,7 @@
   category: Conference
 
 - title: ROS Meetup Munich 2024
-  link: 
-    https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
+  link: https://www.linkedin.com/events/6thros-robotics-meetup-7thfebru7148710255919628288/about/
   start_date: 2024-02-07
   city: Munich
   country: Germany
