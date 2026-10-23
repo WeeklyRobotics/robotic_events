@@ -56,4 +56,3 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Meetup
 
 
-* [Bots & Brews Houston](https://luma.com/y9imgyhb): Oct 22, 2026. Houston, Texas, United States of America
