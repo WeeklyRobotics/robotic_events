@@ -984,6 +984,14 @@
   country: Czechia
   category: Conference
 
+- title: ROSCon UK 2026
+  link: https://roscon.org.uk/2026/
+  start_date: 2026-10-21
+  end_date: 2026-10-23
+  city: Edinburgh
+  country: United Kingdom
+  category: Conference
+
 - title: Bots & Brews Houston
   link: https://luma.com/y9imgyhb
   start_date: 2026-10-22
