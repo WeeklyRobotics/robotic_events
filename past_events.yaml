@@ -999,3 +999,11 @@
   country: United States of America
   category: Meetup
 
+- title: ROSCon Spain 2026
+  link: https://roscon.org.es/roscon2026/ROSConES2026.html
+  start_date: 2026-10-27
+  end_date: 2026-10-28
+  city: Valencia
+  country: Spain
+  category: Conference
+
