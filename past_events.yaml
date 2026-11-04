@@ -1015,3 +1015,10 @@
   country: United States of America
   category: Workshop
 
+- title: ROSCon IT 2026
+  link: https://roscon.ros.org/it/2026/
+  start_date: 2026-11-03
+  city: Bologna
+  country: Italy
+  category: Conference
+
