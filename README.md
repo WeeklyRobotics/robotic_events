@@ -32,7 +32,6 @@ When you insert the event, make sure it is inserted chronologically with respect
 ## Conference
 
 
-* [ROSCon IT 2026](https://roscon.ros.org/it/2026/): Nov 03, 2026. Bologna, Italy
 * [Humanoid Europe 2026](https://humanoideurope2026.com/): Nov 05-Nov 06, 2026. Munich, Germany
 * [FUSE San Francisco 2026](https://fuse.pointonenav.com/sf): Nov 19, 2026. San Francisco, California, United States of America
 * [ROSCon BE 2026](https://roscon.ros.org/be/2026/): Nov 25-Nov 26, 2026. Nivelles, Belgium
