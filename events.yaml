@@ -13,6 +13,14 @@
   country: Belgium
   category: Conference
 
+- title: ROSCon India 2026
+  link: https://rosconindia.in/
+  start_date: 2026-12-02
+  end_date: 2026-12-04
+  city: Bengaluru
+  country: India
+  category: Conference
+
 - title: Humanoids 2026
   link: https://2026.ieee-humanoids.org/
   start_date: 2026-12-06
