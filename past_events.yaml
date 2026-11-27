@@ -1037,3 +1037,11 @@
   country: United States of America
   category: Conference
 
+- title: ROSCon BE 2026
+  link: https://roscon.ros.org/be/2026/
+  start_date: 2026-11-25
+  end_date: 2026-11-26
+  city: Nivelles
+  country: Belgium
+  category: Conference
+
